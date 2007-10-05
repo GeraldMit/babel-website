@@ -40,7 +40,7 @@
      - page of the first product. Multiple <product>s are allowed.
     -->
   <bugzilla>
-    <product name="Babek"/>
+    <product name="Babel"/>
   </bugzilla>
 
   <!--
