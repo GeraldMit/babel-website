@@ -37,14 +37,16 @@
 		The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3.
 		</p>
 		<p> In the interim, SwissPost - PostFinance has been kind enough to provide translations in French, German,
-		and Italian for some existing Eclipse 3.3 plugins, listed below.
+		and Italian for some existing Eclipse 3.3 plugins, listed below. These have not been fully tested, so please
+		use at your own risk.
 		</p>
 		<p>
 		You can download the fragments here: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/babel/NL_Fragments_Eclipse_3_3.zip">
-		NL_Fragments_Eclipse_3_3.zip
-		</a>.
+		NL_Fragments_Eclipse_3_3.zip</a>.
 		</p>
-		
+		<p>
+		The following is a list of the plugins that have been translated. 
+		</p>
 		
 		<pre>
 org.eclipse.core.contenttype.nl1_3.2.0.v200609270227.jar	
@@ -96,7 +98,8 @@ org.eclipse.ui.workbench.nl1_3.2.1.v200609270227.jar
 org.eclipse.ui.workbench.texteditor.nl1_3.2.0.v200609270227.jar	
 </pre>
 		</p>
-		
+		<p>
+		Thanks to Remo Lötscher of PostFinance for donating these to Eclipse!
 
 	</div>
 	
