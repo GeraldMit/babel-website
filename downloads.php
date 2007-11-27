@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project";
+	$pageTitle 		= "Eclipse Babel Project Downloads";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
@@ -34,11 +34,19 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>
-		SwissPost - PostFinance has been kind enough to provide translations in French, German,
-		and Italian for the following Eclipse 3.3 plugins:
+		The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3.
+		</p>
+		<p> In the interim, SwissPost - PostFinance has been kind enough to provide translations in French, German,
+		and Italian for some existing Eclipse 3.3 plugins, listed below.
+		</p>
+		<p>
+		You can download the fragments here: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/babel/NL_Fragments_Eclipse_3_3.zip">
+		NL_Fragments_Eclipse_3_3.zip
+		</a>.
+		</p>
+		
 		
 		<pre>
-			List of Plugins:
 org.eclipse.core.contenttype.nl1_3.2.0.v200609270227.jar	
 org.eclipse.core.expressions.nl1_3.2.1.v200609270227.jar	
 org.eclipse.core.filebuffers.nl1_3.2.1.v200609270227.jar	
