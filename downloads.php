@@ -36,7 +36,7 @@
 		<p>
 		The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3.
 		</p>
-		<p> In the interim, SwissPost - PostFinance has been kind enough to provide translations in French, German,
+		<p> In the interim, <a href="http://www.postfinance.ch/">SwissPost - PostFinance</a> has been kind enough to provide translations in French, German,
 		and Italian for some existing Eclipse 3.3 plugins, listed below. These have not been fully tested, so please
 		use at your own risk.
 		</p>
