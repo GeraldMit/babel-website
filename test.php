@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project";
+	$pageTitle 		= "Eclipse Babel Project Downloads";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
