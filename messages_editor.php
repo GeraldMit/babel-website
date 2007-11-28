@@ -46,7 +46,8 @@
 		consider the plugin “stable”.  I will keep you posted on the porting 
 		progress through the mailing list.</p>
 		<p>
-		Implemented (Features found in both SourceForge version AND Babel version):
+		<h3>Implemented</h3>
+		(Features found in both SourceForge version AND Babel version):
 		<ul>
 			<li>Can edit values of all locales at once for a given key.</li>
 			<li>Keys are always sorted for ease of reference.</li>
@@ -56,7 +57,8 @@
 			<li>Can toggle between flat and hierarchical view of keys.</li>
 		</ul>
 		
-		Not yet ported over (found in SourceForge version only for now):
+		<h3>Not yet ported over</h3>
+		(found in SourceForge version only for now):
 		<ul>
 			<li>Supports Eclipse "nl" structure for I18N of plugins.</li>
 			<li>All refactoring options (renaming, deleting, copying, keys or group of keys).</li>
@@ -65,13 +67,14 @@
 			<li>Reporting of similar values.</li>
 		</ul>
 		
-		New features (found in Babel version only):
+		<h3>New features</h3>
+		(found in Babel version only):
 		<ul>
 			<li>Use of the problems view to report validation warnings (needs polishing)</li>
 			<li>Folding of locale fields when translating, to clean up the editor when dealing with many locales.</li>
 		</ul> 
 		
-		Vision
+		<h3>Vision</h3>
 		My vision for this plugin has always been to be a front-end desktop utility/application of choice for all translation purposes when developing applications.   To accomplish this, I envision this for the plugin: 
 		<ul>
 			<li>Integrate message key refactoring with several referencing file types.  For example, renaming a key in the Babel Editor would not only update it for all related properties files, but also renamed its references found in other files such as Java, JSP, etc.</li>
