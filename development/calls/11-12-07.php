@@ -48,7 +48,7 @@
 		</ul>
 	
 <ol>
- <li>Mike Milinkovich</li>
+ <li>Mike Milinkovich
  <ul>
   <li>Aptana Code – To Do List</li>
   <ul style='margin-top:0in' type=square>
@@ -75,7 +75,8 @@
    </ul>
   </ul>
  </ul>
- <li>Recent post to newsgroup – Jess Garms</li>
+ </li>
+ <li>Recent post to newsgroup – Jess Garms
  <ul>
   <li>Someone ported the 3.2 translations of a number of
       languages to 3.3. It would be nice if we could host those for people who
@@ -112,10 +113,8 @@
        region</li>
   </ul>
  </ul>
-</ol>
-
-<ol>
- <li>Submit a proposal for EclipseCon short talk BOF - status</li>
+ </li>
+ <li>Submit a proposal for EclipseCon short talk BOF - status
  <ul>
   <li>Kit is still working on the draft</li>
   <li>Might want to add a demo – we should make this a long
@@ -127,14 +126,16 @@
   </ul>
   <li>Deadline Nov 19<sup>th</sup></li>
  </ul>
- <li>Pascal Essiembre’s Contribution</li>
+ </li>
+ <li>Pascal Essiembre’s Contribution
  <ul>
   <li>Waiting for approval before putting code back in CVS</li>
   <li>Next step needs legal approval first</li>
   <li>Denis will check what the status is</li>
   <li>CQ was created</li>
  </ul>
- <li>Nigel Westbury’s Contribution</li>
+ </li>
+ <li>Nigel Westbury’s Contribution
  <ul>
   <li>He will send out a brief description and screen shots to BabelDev</li>
   <ul style='margin-top:0in' type=square>
@@ -143,6 +144,7 @@
        translation at runtime</li>
   </ul>
  </ul>
+ </li>
 </ol>
 		
 	</div>
