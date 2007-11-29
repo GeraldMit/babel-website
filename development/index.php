@@ -38,8 +38,10 @@
 		the <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">dev mailing list</a>.
 		</p>
 		<p>
-		We also have weekly <a href="calls.php">status calls</a>, which are open to the community.
+		We also have weekly <a href="calls">status calls</a>, which are open to the community.
 		</p>
+		<p>Additionally, there is some documentation on one of the Babel components, 
+		the <a href="../messages_editor">Messages Editor</a>.
 		
 	</div>
 	

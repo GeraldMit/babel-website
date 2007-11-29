@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project Development Meeting: 11/26/07";
+	$pageTitle 		= "Eclipse Babel Project Development Meetings";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
@@ -33,33 +33,17 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Attendees:</h2>
+		<h2>Call Info</h2>
+		<p>Toll-free in the US: (866) 484-4232</p>
+		<p>Alternate: :(702) 894-2358</p>
+		<p>Code: 8151429</p>
+		<p>Call time: Mondays, 10:00 a.m. Pacific</p>
+		
+		<h2>Call Archive</h2>
 		<ul>
-			<li>Jess Garms</li>
-			<li>Kit Lo</li>
-			<li>Chris Nguyen</li>
-			<li>Denis Roy</li>
-		</ul>
-	
-	<ol>
-		<li>Action Item: Jess Garms to create page for Babel Meeting notes</li>
-		<li>Talks for EclipseCon
-			<li>Needs Jess and Chris N. to create account to join as speaker</li>
-		</li>
-		
-		<li>Pascal’s code is ready to go
-		<ol>
-			<li>He sent out an email for more information</li>
-			<li>Action Item: Jess to create a web page with Pacal’s information (for his contribution)</li>
-		</ol>
-		</li>
-		<li>Server side Translation Project
-		<ol>
-			<li>Denis and Kit to create a kit for the strings for the translation project</li>
-		</ol>
-		</li>
-	</ol>
-		
+			<li><a href="11-26-07.php">November 26, 2007</a></li>
+			<li><a href="11-12-07.php">November 12, 2007</a></li>
+		</ul>		
 	</div>
 	
 </div>

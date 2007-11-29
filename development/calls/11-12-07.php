@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project Development Meeting: 11/26/07";
+	$pageTitle 		= "Eclipse Babel Project Development Meeting: 11/12/07";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
@@ -39,12 +39,18 @@
 			<li>Kit Lo</li>
 			<li>Chris Nguyen</li>
 			<li>Denis Roy</li>
+			Pat Huff
+Nigel Westbury
+Mike Milinkovich
+Rich Gronback
+Gabe
+			
 		</ul>
 	
 	<ol>
 		<li>Action Item: Jess Garms to create page for Babel Meeting notes</li>
 		<li>Talks for EclipseCon
-			<li>Needs Jess and Chris N. to create account to join as speaker</li>
+			<ol><li>Needs Jess and Chris N. to create account to join as speaker</li></ol>
 		</li>
 		
 		<li>Pascal’s code is ready to go
