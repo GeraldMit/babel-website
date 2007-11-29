@@ -44,7 +44,7 @@
 	<ol>
 		<li>Action Item: Jess Garms to create page for Babel Meeting notes</li>
 		<li>Talks for EclipseCon
-			<li>Needs Jess and Chris N. to create account to join as speaker</li>
+			<ol><li>Needs Jess and Chris N. to create account to join as speaker</li></ol>
 		</li>
 		
 		<li>Pascal’s code is ready to go
