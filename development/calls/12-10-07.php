@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project Development Meetings";
+	$pageTitle 		= "Eclipse Babel Project Development Meeting: 12/10/07";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
@@ -33,19 +33,39 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Call Info</h2>
-		<p>Toll-free in the US: (866) 484-4232</p>
-		<p>Alternate: :(702) 894-2358</p>
-		<p>Code: 8151429</p>
-		<p>Call time: Mondays, 10:00 a.m. Pacific</p>
-		
-		<h2>Call Archive</h2>
+		<h2>Attendees:</h2>
 		<ul>
-			<li><a href="12-10-07.php">December 10, 2007</a></li>
-			<li><a href="12-03-07.php">December 3, 2007</a></li>
-			<li><a href="11-26-07.php">November 26, 2007</a></li>
-			<li><a href="11-12-07.php">November 12, 2007</a></li>
-		</ul>		
+			<li>Jess Garms</li>
+			<li>Kit Lo</li>
+			<li>Pat Huff</li>
+			<li>Pascal Essiembre</li>
+			<li>Gabe</li>
+		</ul>
+
+
+<ol>
+ <li>Server-side
+     Translation Project: Kit Lo
+ <ol>
+  <li>Kit
+      to come up w/ a certain spec and post to the newsgroup and
+      email it out by the end of the week.</li>
+  <li>The server should be ready to populate by the end of this week.</li>
+  <li>Gabe is going to work on a script to populate the translated side of
+  the data from the Swiss Post-provided language packs.</li>
+ </ol>
+ </li>
+
+ <li>EclipseCon
+     Short Talk
+ <ol>
+  <li>We
+      may have two short talks at EclipseCon.</li>
+ </ol>
+ </li>
+ 
+</ol>
+		
 	</div>
 	
 </div>
