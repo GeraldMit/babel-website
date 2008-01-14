@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project Development Meetings";
+	$pageTitle 		= "Eclipse Babel Project Development Meeting: 01/14/08";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
@@ -33,21 +33,66 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Call Info</h2>
-		<p>Toll-free in the US: (866) 484-4232</p>
-		<p>Alternate: :(702) 894-2358</p>
-		<p>Code: 8151429</p>
-		<p>Call time: Mondays, 10:00 a.m. Pacific</p>
-		
-		<h2>Call Archive</h2>
+		<h2>Attendees:</h2>
 		<ul>
-			<li><a href="01-14-08.php">January 14, 2008</a></li>
-			<li><a href="12-17-07.php">December 17, 2007</a></li>
-			<li><a href="12-10-07.php">December 10, 2007</a></li>
-			<li><a href="12-03-07.php">December 3, 2007</a></li>
-			<li><a href="11-26-07.php">November 26, 2007</a></li>
-			<li><a href="11-12-07.php">November 12, 2007</a></li>
-		</ul>		
+			<li>Chris Nguyen</li>
+			<li>Kit Lo</li>
+			<li>Nigel Westbury</li>
+			<li>Denis Roy</li>
+			<li>Gabe</li>
+			<li>Antwan</li>
+			<li>Jess Garms</li>
+		</ul>
+
+
+<ol>
+ <li>Server-side
+     Translation Project: Denis
+ <ol>
+  	<li>Gabe hasn't had time to work on the imports
+  	<ol>
+  		<li>Ran into some issues while running into the Escape Unicode</li>
+  		<li>Will hopefully get this done by the end of this week</li>
+  	</ol>
+  	</li>
+  	
+  	<li>Staging Area
+  	<ol>
+  		<li>Has anyone had time to look at the staging area? So far there hasn't been 
+  		any feedback. Please post all comments to the mailing list</li>
+  	</ol>
+  	</li>
+  	
+  	<li>Directory Structure of Strings
+  	<ol>
+  		<li>Translatable Structure. Proposal: File - key name</li>
+  	</ol>
+  	</li>
+  </ol>
+  </li>
+  
+  <li>Copyright information: Kit Lo
+  <ol>
+  	<li>We may have to look into copyrighting the strings</li>
+  	<li>Should we save the copyright information somewhere?</li>
+  	<li>Terms of use in Eclipse.org may contain information for this</li>
+  </ol>
+  </li>
+  
+  <li>Runtime Plugin Status
+  <ol>
+  	<li>Should documentation be in a wiki?</li>
+  	<li>Kit will try it out and get status back to the group</li>
+  </ol>
+  </li>
+  
+  <li>Antwan from Ontario
+  <ol>
+  	<li>Wants to contribute to the editor</li>
+  </ol>
+  </li>
+</ol>		
+ 
 	</div>
 	
 </div>
