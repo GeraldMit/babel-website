@@ -86,7 +86,7 @@
   </ol>
   </li>
   
-  <li>Antwan from Ontario
+  <li>Antoine Toulme from Intalio
   <ol>
   	<li>Wants to contribute to the editor</li>
   </ol>
