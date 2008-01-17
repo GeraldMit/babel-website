@@ -40,7 +40,7 @@
 			<li>Nigel Westbury</li>
 			<li>Denis Roy</li>
 			<li>Gabe</li>
-			<li>Antwan</li>
+			<li>Antoine Toulme</li>
 			<li>Jess Garms</li>
 		</ul>
 
