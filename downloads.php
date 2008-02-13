@@ -78,7 +78,9 @@ ol#known-issues ul li{
 	  	Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 	  </ol></p><br />
 		<h2>Other downloads</h2>
-		<p>In the interim, <a href="http://www.postfinance.ch/">SwissPost - PostFinance</a> has been kind enough to provide translations in French, German,
+		<ul><li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
+		<br />
+		<li><a href="http://www.postfinance.ch/">SwissPost - PostFinance</a> has been kind enough to provide translations in French, German,
 		and Italian for some existing Eclipse 3.3 plugins, listed below. These have not been fully tested, so please
 		use at your own risk.
 		</p>
@@ -138,15 +140,14 @@ org.eclipse.ui.views.nl1_3.2.1.v200609270227.jar
 org.eclipse.ui.views.properties.tabbed.nl1_3.2.1.v200609270227.jar	
 org.eclipse.ui.workbench.nl1_3.2.1.v200609270227.jar	
 org.eclipse.ui.workbench.texteditor.nl1_3.2.0.v200609270227.jar	
-</pre>
-		</p>
-		<p>
+</pre><p>
 		Thanks to Remo Lötscher of PostFinance for donating these to Eclipse!
 		</p>
+		</li></ul>
+		
 	</div>
 </div>
 EOHTML;
-
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
