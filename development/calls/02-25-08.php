@@ -18,7 +18,7 @@
   <li>Gabe</li>
 </ul>
 <ol start="1" type="1">
-  <li>Server-side Translation       Project Update (Babel Translations Server) – Denis</li>
+  <li>Server-side Translation       Project Update (Babel Translations Server) â€“ Denis</li>
   <ol start="1" type="1">
     <li>Ready to put 3.2        translations into server but testing before doing so</li>
     <li>Testing 3.2 versus 3.1</li>
@@ -67,7 +67,7 @@
   </ol>
   <li>We need to have a release       plan:</li>
   <ol start="1" type="1">
-    <li>Our project will have        issues because we’re dealing w/ translations</li>
+    <li>Our project will have        issues because weâ€™re dealing w/ translations</li>
     <ol start="1" type="1">
       <li>I.e. At GA time we         may have 80% of the translations times or 90% a month later, etc.</li>
       <li>Kit will discuss with         Bjorn for more advice</li>
