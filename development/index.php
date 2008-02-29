@@ -39,7 +39,7 @@
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a></li>
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a></li>
 			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>)</li>
-			<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.babel/?root=Technology_Project">CVS browser</li>
+			<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.babel/?root=Technology_Project">CVS browser</a></li>
 			<li>CVS repository: :pserver:anonymous@dev.eclipse.org:/cvsroot/technology module: org.eclipse.babel</li>
 		</ul>
 		</p>
