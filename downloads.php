@@ -56,7 +56,7 @@ ol#known-issues ul li{
 		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3.</p>
 		<h2>Babel NLPack Update Site</h2>
 		<p>The Babel project produces nightly NL packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td>http://download.eclipse.org/technology/babel/update-site/</td></tr></table></p>
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>http://download.eclipse.org/technology/babel/update-site/</b></font></td></tr></table></p>
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
 		
 	  <ol id="known-issues" style='margin-left: 10px;'>
@@ -77,21 +77,26 @@ ol#known-issues ul li{
 	  	<li>Not all languages are included in Babel yet.
 	  	Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 	  </ol></p><br />
-		<h2>Other downloads</h2>
-		<ul><li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
-		<br />
-		<li><a href="http://www.postfinance.ch/">SwissPost - PostFinance</a> has been kind enough to provide translations in French, German,
-		and Italian for some existing Eclipse 3.3 plugins, listed below. These have not been fully tested, so please
-		use at your own risk.
-		</p>
-		<p>
-		You can download the fragments here: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/babel/NL_Fragments_Eclipse_3_3.zip">
-		NL_Fragments_Eclipse_3_3.zip</a>.
-		</p>
-		<p>
-		The following is a list of the plugins that have been translated. 
-		</p>
-		
+	  <h2>Using the language packs</h2>
+	  <p>To use a language pack, launch Eclipse with the -nl parameter:</p>
+	  <code>eclipse.exe -nl fr_FR</code>
+	  <p>Replace fr_FR with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">launching Eclipse</a> for more details.</p>
+	  <br />
+	  
+	<h2>Other downloads</h2>
+	<ul><li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
+	<br />
+	<li><a href="http://www.postfinance.ch/">SwissPost - PostFinance</a> has been kind enough to provide translations in French, German,
+	and Italian for some existing Eclipse 3.3 plugins, listed below. These have not been fully tested, so please
+	use at your own risk.
+	</p>
+	<p>
+	You can download the fragments here: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/babel/NL_Fragments_Eclipse_3_3.zip">
+	NL_Fragments_Eclipse_3_3.zip</a>.
+	</p>
+	<p>
+	The following is a list of the plugins that have been translated. 
+	</p>
 		<pre>
 org.eclipse.core.contenttype.nl1_3.2.0.v200609270227.jar	
 org.eclipse.core.expressions.nl1_3.2.1.v200609270227.jar	
