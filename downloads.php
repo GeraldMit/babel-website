@@ -54,9 +54,10 @@ ol#known-issues ul li{
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3.</p>
-		<h2>Babel NLPack Update Site</h2>
-		<p>The Babel project produces nightly NL packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
+		<h2>Babel Language Pack Update Site</h2>
+		<p>The Babel project produces nightly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>http://download.eclipse.org/technology/babel/update-site/</b></font></td></tr></table></p>
+		<p>Or, import this <a href="/downloads/download.php?file=/technology/babel/BabelLanguagePackUpdateSite.xml">Babel Language Pack Update Site</a> bookmark.</p>
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
 		
 	  <ol id="known-issues" style='margin-left: 10px;'>
