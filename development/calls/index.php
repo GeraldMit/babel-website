@@ -41,7 +41,8 @@
 		
 		<h2>Call Archive</h2>
 		<ul>
-			<li><a href="03-10-08.php">March 17, 2008 (Canceled)</a></li>
+			<li><a href="EclipseConBOF.php">March 19, 2008 (EclipseCon BOF)</a></li>
+			<li><a href="EclipseWorkingSession.php">March 17, 2008 (EclipseCon Working Session)</a></li>
 			<li><a href="03-10-08.php">March 10, 2008</a></li> 
 			<li><a href="03-03-08.php">March 3, 2008</a></li>
 			<li><a href="02-25-08.php">February 25, 2008</a></li>
