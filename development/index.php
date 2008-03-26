@@ -49,11 +49,9 @@
 		<p>Additionally, there is some documentation on one of the Babel components, 
 		the <a href="../messages_editor">Messages Editor</a>.
 		</p>
-		<p>
 		<p>&nbsp;</p>
 		Guidelines for Release Reviews
 		<li><a href="http://www.eclipse.org/projects/dev_process/release-review.php">http://www.eclipse.org/projects/dev_process/release-review.php</a></li> 
-		</p>
 
 		
 	</div>
