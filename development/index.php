@@ -51,7 +51,6 @@
 		</p>
 		<p>
 		<br />
-		<br />
 		Guidelines for Release Reviews<br />
 		<a href="http://www.eclipse.org/projects/dev_process/release-review.php">http://www.eclipse.org/projects/dev_process/release-review.php</a> 
 		</p>

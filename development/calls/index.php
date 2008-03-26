@@ -58,7 +58,7 @@
 			<li><a href="12-03-07.php">December 3, 2007</a></li>
 			<li><a href="11-26-07.php">November 26, 2007</a></li>
 			<li><a href="11-12-07.php">November 12, 2007</a></li>
-
+			<br />
 		</ul>		
 	</div>
 	
