@@ -50,6 +50,7 @@
 		the <a href="../messages_editor">Messages Editor</a>.
 		</p>
 		<p>
+		Pictures from EclipseCon 2008:
 		<li><a href="DSC00792.jpg">A few of the Babel Committers</a></li>
 		</p>
 		<p>
