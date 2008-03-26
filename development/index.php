@@ -54,8 +54,7 @@
 		<li><a href="DSC00792.jpg">A few of the Babel Committers</a></li>
 		</p>
 		<p>
-		<p>
-		</p>
+
 		Guidelines for Release Reviews
 		<li><a href="http://www.eclipse.org/projects/dev_process/release-review.php">http://www.eclipse.org/projects/dev_process/release-review.php</a></li> 
 		</p>
