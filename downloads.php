@@ -86,71 +86,8 @@ ol#known-issues ul li{
 	  
 	<h2>Other downloads</h2>
 	<ul><li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
-	<br />
-	<li><a href="http://www.postfinance.ch/">SwissPost - PostFinance</a> has been kind enough to provide translations in French, German,
-	and Italian for some existing Eclipse 3.3 plugins, listed below. These have not been fully tested, so please
-	use at your own risk.
-	</p>
-	<p>
-	You can download the fragments here: <a href="http://www.eclipse.org/downloads/download.php?file=/technology/babel/NL_Fragments_Eclipse_3_3.zip">
-	NL_Fragments_Eclipse_3_3.zip</a>.
-	</p>
-	<p>
-	The following is a list of the plugins that have been translated. 
-	</p>
-		<pre>
-org.eclipse.core.contenttype.nl1_3.2.0.v200609270227.jar	
-org.eclipse.core.expressions.nl1_3.2.1.v200609270227.jar	
-org.eclipse.core.filebuffers.nl1_3.2.1.v200609270227.jar	
-org.eclipse.core.filesystem.nl1_1.0.0.v200609270227.jar	
-org.eclipse.core.jobs.nl1_3.2.0.v200609270227.jar	
-org.eclipse.core.resources.nl1_3.2.1.v200609270227.jar	
-org.eclipse.core.runtime.compatibility.auth.nl1_3.2.0.v200609270227.jar	
-org.eclipse.core.runtime.compatibility.nl1_3.1.100.v200609270227.jar	
-org.eclipse.core.runtime.nl1_3.2.0.v200609270227.jar	
-org.eclipse.core.variables.nl1_3.1.100.v200609270227.jar	
-org.eclipse.equinox.common.nl1_3.2.0.v200609270227.jar	
-org.eclipse.equinox.preferences.nl1_3.2.1.v200609270227.jar	
-org.eclipse.equinox.registry.nl1_3.2.1.v200609270227.jar	
-org.eclipse.help.appserver.nl1_3.1.100.v200609270227.jar	
-org.eclipse.help.base.nl1_3.2.1.v200609270227.jar	
-org.eclipse.help.nl1_3.2.1.v200609270227.jar	
-org.eclipse.help.ui.nl1_3.2.0.v200609270227.jar	
-org.eclipse.help.webapp.nl1_3.2.1.v200609270227	
-org.eclipse.jface.databinding.nl1_1.0.0.v200609270227.jar	
-org.eclipse.jface.nl1_3.2.1.v200609270227.jar	
-org.eclipse.jface.text.nl1_3.2.1.v200609270227.jar	
-org.eclipse.platform.doc.isv.nl1_3.2.1.v200609270227.jar	
-org.eclipse.platform.doc.user.nl1_3.2.1.v200609270227.jar	
-org.eclipse.platform.nl1_3.2.0.v200609270227	
-org.eclipse.platform.source.nl1_3.2.1.v200609270227	
-org.eclipse.rcp.nl1_3.2.0.v200609270227.jar	
-org.eclipse.rcp.source.nl1_3.2.1.v200609270227	
-org.eclipse.search.nl1_3.2.1.v200609270227.jar	
-org.eclipse.swt.nl1_3.2.1.v200609270227.jar	
-org.eclipse.text.nl1_3.2.0.v200609270227.jar	
-org.eclipse.ui.browser.nl1_3.2.0.v200609270227.jar	
-org.eclipse.ui.cheatsheets.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.console.nl1_3.1.100.v200609270227.jar	
-org.eclipse.ui.editors.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.externaltools.nl1_3.1.101.v200609270227.jar	
-org.eclipse.ui.forms.nl1_3.2.0.v200609270227.jar	
-org.eclipse.ui.ide.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.intro.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.intro.universal.nl1_3.2.1.v200609270227	
-org.eclipse.ui.navigator.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.navigator.resources.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.presentations.r21.nl1_3.2.0.v200609270227.jar	
-org.eclipse.ui.views.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.views.properties.tabbed.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.workbench.nl1_3.2.1.v200609270227.jar	
-org.eclipse.ui.workbench.texteditor.nl1_3.2.0.v200609270227.jar	
-</pre><p>
-		Thanks to Remo Lötscher of PostFinance for donating these to Eclipse!
-		</p>
-		</li></ul>
-		
+	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
+	</ul>	
 	</div>
 </div>
 EOHTML;
