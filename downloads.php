@@ -87,7 +87,7 @@ ol#known-issues ul li{
 	<h2>Other downloads</h2>
 	<ul><li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
-	</ul>	
+	</ul><br /><br /><br />
 	</div>
 </div>
 EOHTML;
