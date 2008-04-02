@@ -35,6 +35,11 @@
 		<h1>$pageTitle</h1>
 		<p>The Babel Project is still in the early stages of development.
 		Here are resources available if you want to get involved:
+		
+		<div class="sectionTitle">Meet the Babel team</div>
+		<p align="center"><img src="babel-team.jpg" alt="Babel team"><br />
+		<font size="small">Left to right: Chris Nguyen, Denis Roy, Nigel Westbury, Gabe O'Brien and Kit Lo at EclipseCon 2008.<br />Missing: Pascal Essiembre, Werner Keil, Daniel McGowan, Paul Colton</font></p>
+		
 		<div class="sectionTitle">Contributing translations</div>
 		<p>The easiest way to get involved with Babel is to help translate Eclipse projects.</p>
 		<ul>
