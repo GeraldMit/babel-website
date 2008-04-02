@@ -14,7 +14,7 @@
 	
 	#
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Eclipse Babel Project Development";
+	$pageTitle 		= "Babel project development";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms";
 	
@@ -29,36 +29,46 @@
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
-
+<link href="../babel.css" rel="stylesheet" type="text/css" />	
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>The Babel Project is still in the early stages of development.
 		Here are resources available if you want to get involved:
+		<div class="sectionTitle">Contributing translations</div>
+		<p>The easiest way to get involved with Babel is to help translate Eclipse projects.</p>
+		<ul>
+		<li><a href="http://babel.eclipse.org/babel/">Web-based translation tool</a>: all you need is an <a href="https://bugs.eclipse.org/bugs/">Eclipse Bugzilla</a> account and a few minutes to start translating.</li>
+		<li><a href="large_contributions.php">Large translation contributions</a>: if you want to submit a large translation to Babel, please follow these guidelines.</li>
+		</ul>
+		<br /><br />
+		<div class="sectionTitle">Contributing Code</div>
+		<p>Babel developers use the following resources:</p>
 		<ul>
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a></li>
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a></li>
 			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>)</li>
 			<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.babel/?root=Technology_Project">CVS browser</a></li>
 			<li>CVS repository: :pserver:anonymous@dev.eclipse.org:/cvsroot/technology module: org.eclipse.babel</li>
+			<li>Weekly <a href="calls">status calls</a>, which are open to the community.</li>
 		</ul>
-		</p>
-		<p>
-		We also have weekly <a href="calls">status calls</a>, which are open to the community.
-		</p>
-		<p>Additionally, there is some documentation on one of the Babel components, 
-		the <a href="../messages_editor">Messages Editor</a>.
-		</p>
-		<p>&nbsp;</p>
-		Guidelines for Release Reviews
-		<li><a href="http://www.eclipse.org/projects/dev_process/release-review.php">http://www.eclipse.org/projects/dev_process/release-review.php</a></li> 
-
+		<h6>Web-based server translation tool</h6>
+		<p>The <a href="http://babel.eclipse.org/babel">translation tool</a> is a LAMP application, so anyone with PHP and MySQL knowledge can contribute code. To help out:</p>
+		<ul>
+			<li><a href="http://wiki.eclipse.org/Babel_/_Server_Tool_Development_Process">Set up a Babel development environment</a> and read our development process.</li>
+			<li><a href="https://bugs.eclipse.org/bugs/buglist.cgi?query_format=advanced&short_desc_type=allwordssubstr&short_desc=&classification=Technology&product=Babel&component=Server&component=Website&long_desc_type=allwordssubstr&long_desc=&bug_file_loc_type=allwordssubstr&bug_file_loc=&status_whiteboard_type=allwordssubstr&status_whiteboard=&keywords_type=allwords&keywords=&deadlinefrom=&deadlineto=&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&emailtype1=substring&email1=&emailtype2=substring&email2=&bugidtype=include&bug_id=&votes=&chfieldfrom=&chfieldto=Now&chfieldvalue=&cmdtype=doit&order=Reuse+same+sort+as+last+time&field0-0-0=noop&type0-0-0=noop&value0-0-0=">Work on the Babel Server Bugs and Enhancements</a> or open new ones.  Submit your code patches to the bugs as attachments.</li>
+		</ul><p>Use the developer mailing lists (above) to discuss development issues. If you submit quality patches consistently, the Babel developers may nominate you as a committer.</p>	
 		
+		
+		<h6>Messages editor</h6>
+		<ul>
+		<li><a href="../messages_editor">Messages Editor</a> documentation</li></ul>
+		<br /><br />
+		Guidelines for Release Reviews
+		<li><a href="http://www.eclipse.org/projects/dev_process/release-review.php">http://www.eclipse.org/projects/dev_process/release-review.php</a></li>
+		<br /><br /> 
 	</div>
-	
 </div>
-
-
 EOHTML;
 
 

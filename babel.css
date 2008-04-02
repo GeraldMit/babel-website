@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+.sectionTitle {
+	font-size:120%;
+	line-height:140%;
+	font-weight:bold;
+	width:100%;
+	border-bottom:2px solid #49457C;
+}
+h6 {
+	margin: 20px 0px 10px 0px;
+}
