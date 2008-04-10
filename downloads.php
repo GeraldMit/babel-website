@@ -55,7 +55,7 @@ ol#known-issues ul li{
 		<h1>$pageTitle</h1>
 		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3.</p>
 		<h2>Babel Language Pack Update Site</h2>
-		<p>The Babel project produces nightly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
+		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>http://download.eclipse.org/technology/babel/update-site/</b></font></td></tr></table></p>
 		<p>Or, import this <a href="/downloads/download.php?file=/technology/babel/BabelLanguagePackUpdateSite.xml">Babel Language Pack Update Site</a> bookmark.</p>
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
@@ -74,7 +74,7 @@ ol#known-issues ul li{
 				<li>with the same sub-messages	  		
 	  		</ul>
 	  	<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.  
-	  	If you encounter a project that you would like to help translate, <a href="importing.php">tell that project's leaders</a>.
+	  	If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
 	  	<li>Not all languages are included in Babel yet.
 	  	Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 	  </ol></p><br />
