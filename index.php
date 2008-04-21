@@ -57,18 +57,24 @@
 		bundles), Translation testing (Is the translation acceptable?), and more.</p>
 	<table width="100%" class="packages" cellspacing=0 cellpadding=0>
 		<tr><td width="60" valign="top">
+			<img src="/mylyn/images/community.jpg" align="left"></a>
+				</td><td valign="top" class="packageDesc">
+				<b>Community</a></b><br />
+				<span><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>) &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a><br/></span>
+			</td></tr>
+	<tr><td width="60" valign="top">
 			<a href="http://babel.eclipse.org/"><img src="http://dev.eclipse.org/large_icons/categories/applications-internet.png" align="left"></a>
 				</td><td valign="top" class="packageDesc">
 				<b><a href="http://babel.eclipse.org/">Translate now</a></b><br />
 				<span>Go to the translation tool and help translate Eclipse.  It's easy!<br/></span>
 			</td></tr>
 		<tr><td width="60" valign="top">
-			<a href="downloads.php"><img src="http://dev.eclipse.org/large_icons//actions/go-bottom.png" align="left"></a>
+			<a href="downloads.php"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" align="left"></a>
 				</td><td valign="top" class="packageDesc">
 				<b><a href="downloads.php">Downloads</a></b><br />
 				<span>Download Eclipse language packs.<br/></span>
 			</td></tr>
-	</table>
+				</table>
 	</div>
 	<div id="rightcolumn">
      <div class="sideitem">
