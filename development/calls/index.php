@@ -34,10 +34,9 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<h2>Call Info</h2>
-		<p>Toll-free in the US: (866) 484-4232</p>
-		<p>Alternate: :(702) 894-2358</p>
-		<p>Code: 8151429</p>
-		<p>Call time: Mondays, 10:00 a.m. Pacific</p>
+		<p>Toll-free in the US and Canada: (877)421-0038</p>
+		<p>Participant Passcode: 118422</p>
+		<p>Call time: Mondays, 10 AM Pacific Time (1 PM Eastern Time)</p>
 		
 		<h2>Call Archive</h2>
 		<ul>
