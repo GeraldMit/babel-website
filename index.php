@@ -1,32 +1,11 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
-	#*****************************************************************************
-	#
-	# template.php
-	#
-	# Author: 		Denis Roy
-	# Date:			2005-06-16
-	#
-	# Description: Type your page comments here - these are not sent to the browser
-	#
-	#
-	#****************************************************************************
-	
 	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Eclipse Babel Project";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
-	$pageAuthor		= "Jess Garms";
-	
-	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
-	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-
-	# End: page-specific settings
-	#
-		
+	$pageAuthor		= "Jess Garms, Denis Roy";
+			
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 <style>
@@ -38,10 +17,11 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>
-		Eclipse is a global community. It is in everyone’'s interest
+		<p>Eclipse is a global community. It is in everyone's interest
 		to ensure that Eclipse is available and translated in as many locales as
 		possible.</p>
+		<p><img src="../images/new.gif"><b>Babel is looking for a project co-lead! </b> &#160; <a href="help_lead_babel.php"> Read more &raquo;</a></p>
+		
 		<p>Babel will be a set of tools to make the job of globalizing
 		Eclipse projects easier. We also want to provide ways for people world
 		wide, who are interested, to contribute translations in their language
@@ -60,16 +40,16 @@
 			<img src="/mylyn/images/community.jpg" align="left"></a>
 				</td><td valign="top" class="packageDesc">
 				<b>Community</a></b><br />
-				<span><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>) &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a><br/></span>
+				<span><a href="/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a><br/></span>
 			</td></tr>
 	<tr><td width="60" valign="top">
-			<a href="http://babel.eclipse.org/"><img src="http://dev.eclipse.org/large_icons/categories/applications-internet.png" align="left"></a>
+			<a href="http://babel.eclipse.org/"><img src="http://dev.eclipse.org/large_icons/categories/applications-internet.png"></a>
 				</td><td valign="top" class="packageDesc">
 				<b><a href="http://babel.eclipse.org/">Translate now</a></b><br />
 				<span>Go to the translation tool and help translate Eclipse.  It's easy!<br/></span>
 			</td></tr>
 		<tr><td width="60" valign="top">
-			<a href="downloads.php"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" align="left"></a>
+			<a href="downloads.php"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png"></a>
 				</td><td valign="top" class="packageDesc">
 				<b><a href="downloads.php">Downloads</a></b><br />
 				<span>Download Eclipse language packs.<br/></span>
