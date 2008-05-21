@@ -20,7 +20,7 @@
 				<li>It's a good idea to have a BVT for our language packs, to have sure it won't crash Eclipse, and everything is loading properly</li>
 				<li>Kit will think of the BVT plan</li>
 				<li>Gabe has the "non-translatable string" UI working, will release after more testing</li>
-				<li>Daniel reported that he was able to pull the Babel language packs from the Babel update site and integrate into their RCP app<
+				<li>Daniel reported that he was able to pull the Babel language packs from the Babel update site and integrate them into their RCP app</li>
 			</ol>
 		</div>
 	</div>
