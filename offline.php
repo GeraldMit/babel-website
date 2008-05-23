@@ -11,7 +11,8 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>The Babel server translation tool is currently offline for some database maintenance.  We apologize for the inconvenience -- please check back later.</p>
+		<p>The Babel server translation tool is currently offline for some database maintenance.</p>
+		<p>We apologize for the inconvenience -- please check back later.</p>
 	</div>
 	<div id="rightcolumn">
      <div class="sideitem">
