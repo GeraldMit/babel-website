@@ -12,7 +12,9 @@
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 		<p>The Babel server translation tool is currently offline for some database maintenance.</p>
+		<p>While you wait, go to our <a href="download.php">download page</a> and download the latest language packs.</p>
 		<p>We apologize for the inconvenience -- please check back later.</p>
+		
 	</div>
 	<div id="rightcolumn">
      <div class="sideitem">
