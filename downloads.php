@@ -58,11 +58,11 @@ ol#known-issues ul li{
 		<h2>Babel Language Pack Update Site</h2>
 		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Ganymede</b></font><br />
-		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0<br />
+		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0 &#160;<a href="http://babel.eclipse.org/babel/importing.php">Request more projects</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</b></font></td></tr></table></p>
 		
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa</b></font><br />
-		Includes Eclipse SDK 3.3<br />
+		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">Request more projects</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
 		
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
