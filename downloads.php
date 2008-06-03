@@ -57,8 +57,14 @@ ol#known-issues ul li{
           Foundation Software User Agreement</a> unless otherwise specified.</p>
 		<h2>Babel Language Pack Update Site</h2>
 		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>http://download.eclipse.org/technology/babel/update-site/</b></font></td></tr></table></p>
-		<p>Or, import this <a href="/downloads/download.php?file=/technology/babel/BabelLanguagePackUpdateSite.xml">Babel Language Pack Update Site</a> bookmark.</p>
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Ganymede</b></font><br />
+		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0<br />
+		<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</b></font></td></tr></table></p>
+		
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa</b></font><br />
+		Includes Eclipse SDK 3.3<br />
+		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
+		
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
 		
 	  <ol id="known-issues" style='margin-left: 10px;'>
@@ -86,7 +92,8 @@ ol#known-issues ul li{
 	  <br />
 	  
 	<h2>Other downloads</h2>
-	<ul><li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
+	<ul><li>Nightly Build update site: http://build.eclipse.org/technology/babel/test-updates/ganymede/</li>
+	<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a> (rebuilt nightly)</li>
 	</ul><br /><br /><br />
