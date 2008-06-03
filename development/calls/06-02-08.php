@@ -21,7 +21,7 @@
 					packs for 3.4, so we'll be getting a lot of new eyeballs on our project.</li>
 				<li>We want to discuss any specific accomplishments and/or goals we'd like
 					to achieve before the big Ganymede release.</li>
-				<li>We are starting to collect a list of "critical bugs for Ganymede". Here is what I have so far:</li> 
+				<li>We are starting to collect a list of "critical bugs for Ganymede". Here is what we have so far:</li> 
 				<ul>
 					<li>235132 - translations in some language packs do not show up because of extra folder name in language packs</li> 
 					<li>217183 - Generate translated plug-ins for multiple project versions</li> 
@@ -31,7 +31,7 @@
 				</ul>
 				<li>Everyone, please let Kit know if you have any bugs you think we should add to the list. Thanks!</li>				                    
 				<li>Jeff analyzed the strings we have in the DB and found a list of strings that we should not translate.</li>
-				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB</li>
+				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB.</li>
 			</ol>
 		</div>
 	</div>
