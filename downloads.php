@@ -1,5 +1,5 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
-	error_reporting(E_ALL); ini_set("display_errors", true);
+
 	#*****************************************************************************
 	#
 	# template.php
@@ -30,12 +30,12 @@
 	# Get Build date
 	$europa_build_str 	= "";
 	$ganymede_build_str = "";
-	$filename = $App->getDownloadsBasePath() . "/technology/babel/update-site/europa/site.xml";
+	$filename = $App->getDownloadBasePath() . "/technology/babel/update-site/europa/site.xml";
 	if(file_exists($filename)) {
     	$europa_build_str = " - built " . date("F d Y", filemtime($filename));
 	}
 	
-	$filename = $App->getDownloadsBasePath() . "/technology/babel/update-site/ganymede/site.xml";
+	$filename = $App->getDownloadBasePath() . "/technology/babel/update-site/ganymede/site.xml";
 	if(file_exists($filename)) {
     	$ganymede_build_str = " - built " . date("F d Y", filemtime($filename));
 	}
