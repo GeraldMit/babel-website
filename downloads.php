@@ -26,6 +26,19 @@
 
 	# End: page-specific settings
 	#
+	
+	# Get Build date
+	$europa_build_str 	= "";
+	$ganymede_build_str = "";
+	$filename = $App->getDownloadsBasePath() . "/technology/babel/update-site/europa/site.xml";
+	if(file_exists($filename)) {
+    	$europa_build_str = " - built " . date("F d Y", filemtime($filename));
+	}
+	
+	$filename = $App->getDownloadsBasePath() . "/technology/babel/update-site/ganymede/site.xml";
+	if(file_exists($filename)) {
+    	$ganymede_build_str = " - built " . date("F d Y", filemtime($filename));
+	}
 		
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
@@ -57,11 +70,11 @@ ol#known-issues ul li{
           Foundation Software User Agreement</a> unless otherwise specified.</p>
 		<h2>Babel Language Pack Update Site</h2>
 		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Ganymede</b></font><br />
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Ganymede$ganymede_build_str</b></font><br />
 		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</b></font></td></tr></table></p>
 		
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa</b></font><br />
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa$ganymede_build_str</b></font><br />
 		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
 		
