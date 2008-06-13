@@ -1,5 +1,5 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
-
+	error_reporting(E_ALL); ini_set("display_errors", true);
 	#*****************************************************************************
 	#
 	# template.php
@@ -74,7 +74,7 @@ ol#known-issues ul li{
 		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</b></font></td></tr></table></p>
 		
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa$ganymede_build_str</b></font><br />
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa$europa_build_str</b></font><br />
 		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
 		
