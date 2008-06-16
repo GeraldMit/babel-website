@@ -28,7 +28,7 @@
 				</ul>
 				<li>Everyone, please let Kit know if you have any bugs you think we should add to the list. Thanks!</li>				                    
 				<li>Need "Language Champions" to monitor the recent translations and report vandalism and errors.</li>
-				<li>Denis created Wiki page: http://wiki.eclipse.org/Babel_/_Language_champions</li>
+				<li>Denis created Wiki page: <a href="http://wiki.eclipse.org/Babel_/_Language_champions">http://wiki.eclipse.org/Babel_/_Language_champions</a></li>
 				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB.</li>
 				<li>Jeff: Adobe will start the translation of IES 3.4 into 6 languages.</li>
 				<li>Adobe needs to coordinate with JWG to avoid duplicated translation efforts.</li>
