@@ -55,7 +55,7 @@
 			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>)</li>
 			<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.babel/?root=Technology_Project">CVS browser</a></li>
 			<li>CVS repository: :pserver:anonymous@dev.eclipse.org:/cvsroot/technology module: org.eclipse.babel</li>
-			<li>Weekly <a href="calls">status calls</a>, which are open to the community.</li>
+			<li><a href="calls">Weekly status calls</a>, which are open to the community.</li>
 		</ul>
 		<h6>Web-based server translation tool</h6>
 		<p>The <a href="http://babel.eclipse.org/babel">translation tool</a> is a LAMP application, so anyone with PHP and MySQL knowledge can contribute code. To help out:</p>

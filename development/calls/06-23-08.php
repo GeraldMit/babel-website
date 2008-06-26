@@ -17,8 +17,7 @@
 			<h2>Minutes:</h2>
 			<ol>
 				<li>Introducing 3 co-ops working with Kit: John Ryding, Matt Mazaika, and Karl Mittmann.</li> 
-				<li>John, Matt, and Karl are currently working on Eclipse related projects in IBM.</li> 
-				<li>They will work part time on Babel.</li> 
+				<li>John, Matt, and Karl are currently working on Eclipse related projects in IBM. They will work part time on Babel.</li> 
 				<li>Status of "critical bugs for Ganymede":</li> 
 				<ul>
 					<li><del>235132 - translations in some language packs do not show up because of extra folder name in language packs</del> - dup of 221675</li> 
