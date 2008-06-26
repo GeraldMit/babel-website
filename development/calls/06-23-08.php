@@ -31,7 +31,7 @@
 				</ul>
 				<li>Everyone, please let Kit know if you have any bugs you think we should add to the list. Thanks!</li>				                    
 				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB.</li>
-				<li>Kit: The "All Versions" and "Only Version 3.3" buttons on the translation page seem to be redundant. I'm yet to see a scenario that requires different translations for different release.</li>
+				<li>Kit: The "All Versions" and "Only Version 3.3" buttons on the translation page seem to be redundant. I'm yet to see a scenario that requires different translations for different releases.</li>
 				<li>Kit will open a bug to remove the "Only Version 3.3" button. We will see if there are any concerns from other users.</li>
 				<li>JWG's large Japanese translation contribution (bug 237745) is waiting on CQ 2441.</li>
 				<li>JWG will start translation of Eclipse docs in July.</li>
