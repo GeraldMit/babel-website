@@ -32,8 +32,7 @@
 				</ul>
 				<li>Everyone, please let Kit know if you have any bugs you think we should add to the list. Thanks!</li>				                    
 				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB.</li>
-				<li>Kit: The "All Versions" and "Only Version 3.3" buttons on the translation page seem to be redundant.</li>
-				<li>I'm yet to see a scenario that requires different translations for different release.</li>
+				<li>Kit: The "All Versions" and "Only Version 3.3" buttons on the translation page seem to be redundant. I'm yet to see a scenario that requires different translations for different release.</li>
 				<li>Kit will open a bug to remove the "Only Version 3.3" button. We will see if there are any concerns from other users.</li>
 				<li>JWG's large Japanese translation contribution (bug 237745) is waiting on CQ 2441.</li>
 				<li>JWG will start translation of Eclipse docs in July.</li>
@@ -41,7 +40,7 @@
 				<li>It should not be too hard to provide a simple plain text editor for use to translate the HTML/XML markup files. We should start looking after the holiday season.</li>
 				<li>A better solution is to provide a HTML/XML markup editor that can protect un-translatable fields in the HTML/XML markup files and only allow translation of translatable strings.</li>
 				<li>The HTML/XML markup editor requires more resources to develop. We really need the community's help to implement this.</li>
-				<li>Werner ask if anyone is attending EclipseWorld in the fall.</li>
+				<li>Werner asked if anyone is attending EclipseWorld in the fall.</li>
 				<li>Pat will be going to EclipseWorld. He will mention and promote Babel. However, it's nice to have a separate session for Babel. Anyone else attending could help?</li>
 				<li>Everyone worked very hard on Eclipse Ganymede release. Ganymede has just been announced. Congratulations!</li>
 				<li>It's now vacation time for developers and holiday season for Canada and the U.S. We plan to cancel the next 2 project development meetings on June 30th and July 7th.</li>
