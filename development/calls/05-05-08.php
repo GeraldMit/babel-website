@@ -23,7 +23,7 @@
 					<li>Gabe to add a "translatable" column to the English string table in database, and to work on "non-translatable" checkbox UI</li>
 					<li>Kit will search and mark strings as "non-translatable"</li>
 					<li>Denis will work on the pseudo translation language pack generation code</li>
-					<li>Gabe will review proposed fixes for bug 221971</li>
+					<li>Gabe will review proposed fixes for bug 221970</li>
 				</ol>
 				<li>English keys with no value are counted in "percentage complete" stats, causing numbers to be low. Kit will open a bug for that.</li>
 			</ol>

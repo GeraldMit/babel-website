@@ -32,7 +32,7 @@
 				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB.</li>
 				<li>Jeff: Adobe will start the translation of IES 3.4 into 6 languages.</li>
 				<li>Adobe needs to coordinate with JWG to avoid duplicated translation efforts.</li>
-				<li>Werner is soliciting s few companies to help Babel.</li>
+				<li>Werner is soliciting a few companies to help Babel.</li>
 			</ol>
 		</div>
 	</div>

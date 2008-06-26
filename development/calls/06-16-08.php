@@ -24,7 +24,7 @@
 					<li><del>235022 - Unhandled event loop exception - Dependency Tab</del> - dup of 222660</li>
 					<li>235553 - Corrupted package path (OpenTypeDialog) - assigning to Denis</li>
 					<li>235607 - Missing contribution in update-site for EMF Compare - assigning to Kit</li>
-					<li>237275 - Update map files for Eclipse 3.4 - assigning to Kit</li>
+					<li>237275 - Update map files for Eclipse 3.4 - assigning to Denis</li>
 				</ul>
 				<li>Everyone, please let Kit know if you have any bugs you think we should add to the list. Thanks!</li>				                    
 				<li>Jeff will pass the list to Kit and Gabe to process and mark the strings non-translatable in the DB.</li>
