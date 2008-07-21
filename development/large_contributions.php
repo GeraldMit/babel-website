@@ -14,9 +14,15 @@
 		<p>To contribute large translation sets (translated .properties files) to Babel:</p>
 		<ul>
 		<li>Make sure your directory structure is laid out as per the recommendation below.</li>
+		<li>Try to use the UTF-8 encoding for all files</li> 
 		<li><a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Babel&component=Server">Open a Bug against Babel/Server</a></li>
 		<li>Attach your contribution ZIP file to the bug.</li>
-		<li>State any details regarding the contribution: which individuals or corporate entities have participated, copyright information, software used to generate the translations, etc.</li>
+		<li>State any details regarding the contribution:</li>
+			<ul><li>which individuals or corporate entities have participated</li>
+			<li>copyright information</li>
+			<li>software used to generate the translations</li>
+			<li>specific file encodings</li>
+			<li>etc...</li></ul>
 		</ul>
 		<p>Once attached, the Babel team will review your contribution and submit it through the Eclipse Legal process.  If it is approved, your contribution will be imported into the Babel server and included in the subsequent nightly build.</p>
 		<br /><br />
