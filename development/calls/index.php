@@ -40,6 +40,7 @@
 		
 		<h2>Call Archive</h2>
 		<ul>
+			<li><a href="07-21-08.php">July 21, 2008</a></li>
 			<li><a href="07-14-08.php">July 14, 2008</a></li>
 			<li>July 7, 2008 - meeting cancelled</li>
 			<li>June 30, 2008 - meeting cancelled</li>
