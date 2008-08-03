@@ -27,7 +27,7 @@
 				<li>Not sure if it was just a mistake or not.</li>
 				<li>Sent an e-mail to the user to confirm about 2 weeks ago, but did not receive any response.</li>
 				<li>Don't want to ban the user because it could be just a careless mistake.</li>
-				<li>Denis: Bugzilla has a function to temporarily suspend an ID with note.</li>
+				<li>Denis: Bugzilla has a function to temporarily suspend an ID with a note.</li>
 				<li>We could add a note and ask the user to contact us.</li>
 				<li>Kit: That sounds like a good function. I will collect more info and work with Denis off-line on that.</li>
 				<li>Gabe: We probably should implement a filter to show all translations from a user.</li>
