@@ -40,6 +40,7 @@
 		
 		<h2>Call Archive</h2>
 		<ul>
+			<li><a href="08-11-08.php">August 11, 2008</a></li>
 			<li><a href="08-04-08.php">August 4, 2008</a></li>
 			<li><a href="07-28-08.php">July 28, 2008</a></li>
 			<li><a href="07-21-08.php">July 21, 2008</a></li>
