@@ -11,8 +11,9 @@
 				<li>Kit</li>
 				<li>Pat</li>
 				<li>Karl</li>
-				<li>Denis</li>
+				<li>Gregg</li>
 				<li>Gabe</li>
+				<li>Margaret</li>
 			</ul>
 			<h2>Minutes:</h2>
 			<ol>
