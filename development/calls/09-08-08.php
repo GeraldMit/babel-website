@@ -25,7 +25,7 @@
 				<li>Translators can plan on their resources basing on this freeze date.</li>
 				<li>The current 3.5 plan is to have "API Freeze" in Milestone 6.</li>
 				<li>I think M6 is also a good time for a "Translatable String Freeze" since all projects should be pretty stable without too any API changes."
-				<ul>Kit will communicate this input to the Eclipse Planning Council.</li>
+				<ul>Kit will communicate this input to the Eclipse Planning Council.</ul>
 				<li>[Bug 246152] Some P2 strings are not extracted to the Babel server for translation - Kit will work with Denis on this.</li>
 				<li>[Bug 244043] WTP 2.0.x is not included in the Babel Project - Kit will work with Denis on this.</li> 
 			</ol>
