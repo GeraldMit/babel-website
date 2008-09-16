@@ -22,9 +22,10 @@
 				<li>We received an e-mail from EMO that our project should have a "next release" plan and schedule. We should work on updating that. Consult our project mentors for advice if needed.</li> 
 				<li>[Bug 234430] Provide another way to download language packs</li>
 				<ul>
-					<li>Kit: I agree with the reporter. Currently, the only way to get the language packs is to get the all translations for all projects through the update site.</li> 
-					<li>Kit: Can we create something like a on-demand generation of the language packs. User selects the language, project, version, we then generate the language pack.</li> 
+					<li>Kit: I agree with the reporter. Currently, the only way to get the language packs is to get the all translations for all projects through the update site. It's big and takes a lot of time.</li> 
+					<li>Kit: Can we create something like a on-demand generation of the language packs? User selects the language, project, version, we then generate the language pack.</li> 
 					<li>Gabe: It sounds feasible.</li> 
+					<li>Kit will open a bug for that.</li> 
 				</ul>
 				<li>[Bug 242904] Marking of non-translatable strings - Gabe to review.</li>
 				<li>Kit: How do I kick off the generate1.php script? Can I start that from a command line? I had some problems running that.</li>
