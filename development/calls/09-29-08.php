@@ -24,7 +24,7 @@
 					<li>Hendrik suggested to only provide the pseudo translations language packs to developers but not to make it available at the official Babel update site</li> 
 					<li>Denis: maybe we could provide the pseudo translations language packs only only at the nightly update site</li> 
 				</ul>
-				<li>[Bug 248981] language pack problems in P2
+				<li>[Bug 248981] language pack problems in P2</li>
 				<ul>
 					<li>since the Babel update site will pull in all translated plugins for all Eclipse projects, looks like the extra translated plugins for projects that are not install are causing problems in P2</li> 
 					<li>need to investigate if there is a way to add a hook in P2 to run some scripts to clean up all unused plugins after install</li> 
