@@ -22,11 +22,11 @@
 		possible.</p>
 		<p><img src="../images/new.gif"><b>Babel is looking for a project co-lead! </b> &#160; <a href="help_lead_babel.php"> Read more &raquo;</a></p>
 		
-		<p>Babel will be a set of tools to make the job of globalizing
+		<p>Babel is a set of tools to make the job of globalizing
 		Eclipse projects easier. We also want to provide ways for people world
 		wide, who are interested, to contribute translations in their language
 		of choice.</p>
-		<p>The project will include tools and activities that
+		<p>The project includes tools and activities that
 		are needed to adapt the Eclipse deliverables to properly run in multiple
 		locales and to translate selected Eclipse projects into multiple
 		different languages (French, Japanese, German, etc). The project could
@@ -73,15 +73,13 @@
 			<h6>Links</h6>
 			<ul>
 				<li><a href="http://babel.eclipse.org/">Translation tool</a></li>
+				<li><a href="http://wiki.eclipse.org/Babel/FAQ">Babel FAQ</a></li>
 				<li><a href="http://www.eclipse.org/proposals/babel/" target="_blank">Project Proposal</a></li>
 			</ul>
 		</div>
 	</div>
 </div>
-
-
 EOHTML;
-
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
