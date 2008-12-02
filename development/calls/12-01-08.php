@@ -34,9 +34,9 @@
 				<li>Babel Project review</li>
 				<ul>
 					<li>Usually, about 1 year after we start an Eclipse project, we should have either a release review or continuation review</li>
-					<li>Wayne did a quick review of the Bable project and qave us some constructions comments</li>
+					<li>Wayne did a quick review of the Bable project and qave us some constructive comments</li>
 					<li>Wayne's comments can be found <a href="http://dev.eclipse.org/mhonarc/lists/babel-dev/msg00553.html">here</a></li>
-					<li>A few major areas we should update:</li>
+					<li>A few areas we should update:</li>
 					<ul>
 						<li>The project summary page</li> 
 						<li>The Getting Started tab was grayed out</li> 
