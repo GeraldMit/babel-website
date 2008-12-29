@@ -21,7 +21,7 @@
 					<li>Denis: It's a general practice to trim the spaces before and after a string, sounds like we shouldn't trim the spaces after the string in this case</li>
 					<li>Denis will take a look at this</li>
 				</ul>
-				<li>{Bug 258218] "non-translatable" check box should apply to all strings</li>
+				<li>[Bug 258218] "non-translatable" check box should apply to all strings</li>
 				<ul>
 					<li>Kit: I've added comments in the bug describing a case where we shouldn't apply "non-translatable" to all values found, plan to reject this bug</li>
 					<li>Denis: agree</li>
