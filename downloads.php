@@ -77,6 +77,9 @@ ol#known-issues ul li{
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa$europa_build_str</b></font><br />
 		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
+
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><a href="http://download.eclipse.org/technology/babel/babel_language_packs/"><font size="+1"><b>Language Pack ZIPs</b></font></a><br />
+		Includes Eclipse Ganymede and Europa<br /></td></tr></table></p>
 		
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
 		
