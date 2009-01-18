@@ -40,6 +40,11 @@
     	$ganymede_build_str = " - built " . date("F d Y", filemtime($filename));
 	}
 		
+	$filename = $App->getDownloadBasePath() . "/technology/babel/babel_language_packs/index.php";
+	if(file_exists($filename)) {
+    	$babel_language_packs_build_str = " - built " . date("F d Y", filemtime($filename));
+	}
+
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
 <style>
@@ -66,20 +71,22 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse 3.3. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
+		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse Ganymede and Europa. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
-		<h2>Babel Language Pack Update Site</h2>
-		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use this Eclipse Update site to download the packs.</p>
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Ganymede$ganymede_build_str</b></font><br />
+		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack ZIPs from the following link.</p>
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Ganymede$ganymede_build_str</b></font><br />
 		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</b></font></td></tr></table></p>
 		
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Europa$europa_build_str</b></font><br />
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Europa$europa_build_str</b></font><br />
 		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
 
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><a href="http://download.eclipse.org/technology/babel/babel_language_packs/"><font size="+1"><b>Language Pack ZIPs</b></font></a><br />
-		Includes Eclipse Ganymede and Europa<br /></td></tr></table></p>
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack ZIPs$babel_language_packs_build_str</b></font></a><br />
+		Includes Eclipse Ganymede and Europa<br />
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/">
+		<font size="+1"><b>http://download.eclipse.org/technology/babel/babel_language_packs</b></font>
+		</a></td></tr></table></p>
 		
 		<p>Before you download and use any of the language packs, please read these known problems:</p>
 		
@@ -102,13 +109,14 @@ ol#known-issues ul li{
 	  	Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 	  </ol></p><br />
 	  <h2>Using the language packs</h2>
-	  <p>To use a language pack, launch Eclipse with the -nl parameter:</p>
-	  <code>eclipse.exe -nl fr_FR</code>
-	  <p>Replace fr_FR with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">launching Eclipse</a> for more details.</p>
+	  <p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
+	  <p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
+	  <code>eclipse.exe -nl fr</code>
+	  <p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 	  <br />
 	  
 	<h2>Other downloads</h2>
-	<ul><li>Nightly Build update site: http://build.eclipse.org/technology/babel/test-updates/ganymede/</li>
+	<ul><li>Nightly Build update site: <b>http://build.eclipse.org/technology/babel/test-updates/ganymede</b></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a> (rebuilt nightly)</li>
