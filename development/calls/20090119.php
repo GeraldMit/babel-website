@@ -9,7 +9,6 @@
 			<h2>Attendees:</h2>
 			<ul>
 				<li>Kit</li>
-				<li>Denis</li>
 				<li>Margaret</li>
 				<li>Antoine</li>
 			</ul>
