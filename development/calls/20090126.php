@@ -29,7 +29,7 @@
 					<li>How to extract doc/cshelp plugins, html/xml files?</li>
 					<li>Need plain editor for entering doc translations for now</li>
 					<li>Where do we store the doc translations, CVS? SQL DB? Antoine opened bug 262124</li>
-					<li>How do we build the language packs for the doc plugins</li>
+					<li>How do we build the language packs for the doc plugins?</li>
 				</ul>
 				<li>We think we should store the doc translations in the SQL DB. That way, both the string translations and doc translations are at one place. It will make the building of the language packs easier.</li>
 			</ol>
