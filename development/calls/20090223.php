@@ -24,7 +24,7 @@
 				<li>While we are on the project release train topic, we should add Galileo release to the list (bug 262682) by M6, March 16.</li>
 				<li>I noticed some P2 strings are not translated. I think it was caused by: Bug 242307 - Equinox move request to RT</li>
 				<li>I've defined a new map file for P2 at the staging server. Do we run the map file processor nightly?</li>
-				<li>The map processor on the live server is run nightly. The one on the staging server is manual.<ul>
+				<li>The map processor on the live server is run nightly. The one on the staging server is manual.</li>
 				<li>Many projects at staging server like BIRT, DTP. Eclipse 3.3.1 do not show any files for translation. Was it caused by the map file processing problem?</li>
 				<li>The map files are probably not update-to-date. We should update the map files.</li>
 				<li>I added a post to the babel-dev mailing list yesterday about "Babel Language Pack Build Tool". Please try, comment, and help improve the tool.</li>
