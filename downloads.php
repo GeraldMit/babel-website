@@ -84,25 +84,13 @@ ol#known-issues ul li{
 
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack ZIPs$babel_language_packs_build_str</b></font></a><br />
 		Includes Eclipse Ganymede and Europa<br />
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/">
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs">
 		<font size="+1"><b>http://download.eclipse.org/technology/babel/babel_language_packs</b></font>
 		</a></td></tr></table></p>
 		
-		<p>Before you download and use any of the language packs, please read these known problems:</p>
+		<p>Before you download and use any of the language packs, please read these known issues:</p>
 		
 	  <ol id="known-issues" style='margin-left: 10px;'>
-	  	<li>The language packs contain translated string for all the Eclipse Foundation Projects.
-	  	 Unfortunately, you do not have all the Eclipse Foundation Projects installed in your IDE.
-	  	 Thus, when you start Eclipse, the error log will accumulate warnings like these:
-	  		<ul style='margin-left: 25px;'>
-				<li class="stop">Bundle ... was not resolved.
-				<li>And below that, a sub-message of:
-				<li class="stop">Missing host ...
-				<li>e.g., Missing host org.eclipse.wst.core_2.1.0
-				<li>There will also be an error:
-				<li class="stop">One or more bundles are not resolved because the following root constraints are not resolved:
-				<li>with the same sub-messages	  		
-	  		</ul>
 	  	<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.  
 	  	If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
 	  	<li>Not all languages are included in Babel yet.
