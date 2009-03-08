@@ -8,37 +8,37 @@
    </introduction>
    <release_deliverables>
      <html:div>
-       <ul>
-         <li>Source code tagged with "R1_0" in CVS repository</li>
-         <li>Babel Runtime available as downloadable zip and at Babel Runtime Update Site</li>
-         <li>Babel Language Pack Update Site for Ganymede</li>
-         <li>Babel Language Pack Update Site for Europa</li>
-         <li>Babel Language Pack downloadable zips</li>
+       <html:ul>
+         <html:li>Source code tagged with "R1_0" in CVS repository</li>
+         <html:li>Babel Runtime available as downloadable zip and at Babel Runtime Update Site</li>
+         <html:li>Babel Language Pack Update Site for Ganymede</li>
+         <html:li>Babel Language Pack Update Site for Europa</li>
+         <html:li>Babel Language Pack downloadable zips</li>
        </ul>
      </html:div>
    </release_deliverables>
    <release_milestones>
       <preamble>
-         <html:div>Release milestones will be aligned with the <a href="http://wiki.eclipse.org/Galileo_Simultaneous_Release">Galileo Simultaneous Release</a> train.</html:div>
+         <html:div>Release milestones will be aligned with the <html:a href="http://wiki.eclipse.org/Galileo_Simultaneous_Release">Galileo Simultaneous Release</a> train.</html:div>
       </preamble>
-      <milestone date="04/01/2009" milestone="M1" />
-      <milestone date="05/01/2009" milestone="M2" />
-      <milestone date="05/15/2009" milestone="RC1" />
-      <milestone date="05/29/2009" milestone="RC2" />
-      <milestone date="06/05/2009" milestone="RC3" />
-      <milestone date="06/12/2009" milestone="RC4" />
-      <milestone date="06/28/2009" milestone="1.0" />
-      <postamble><html:div>html content</html:div></postamble>
+      <milestone date="04/01/2009" milestone="M1"><html:div>1.0M1</html:div></milestone>
+      <milestone date="05/01/2009" milestone="M2"><html:div>1.0M2</html:div></milestone>
+      <milestone date="05/15/2009" milestone="RC1"><html:div>1.0RC1</html:div></milestone>
+      <milestone date="05/29/2009" milestone="RC2"><html:div>1.0RC2</html:div></milestone>
+      <milestone date="06/05/2009" milestone="RC3"><html:div>1.0RC3</html:div></milestone>
+      <milestone date="06/12/2009" milestone="RC4"><html:div>1.0RC4</html:div></milestone>
+      <milestone date="06/28/2009" milestone="1.0"><html:div>1.0</html:div></milestone>
    </release_milestones>
    <target_environments>
-     <html:div>Babel translations is platform independent. Babel Runtime will be tested on the following platforms:</html:div>
-       <ul>
-         <li>Microsoft Windows Vista, x86-32, Win32</li>
-         <li>Microsoft Windows XP, x86-32, Win32</li>
-         <li>Red Hat Enterprise Linux 5.0, x86-32, GTK</li>
+     <html:div>Babel translations is platform independent. Babel Runtime will be tested on the following platforms:
+       <html:ul>
+         <html:li>Microsoft Windows Vista, x86-32, Win32</li>
+         <html:li>Microsoft Windows XP, x86-32, Win32</li>
+         <html:li>Red Hat Enterprise Linux 5.0, x86-32, GTK</li>
        </ul>
+     </html:div>
      <internationalization>
-          <html:div>Babel Runtime is available for translation in the <a href="http://babel.eclipse.org/babel/languages.php">languages supported by Babel</a>. However, participation may vary.</html:div>
+          <html:div>Babel Runtime is available for translation in the <html:a href="http://babel.eclipse.org/babel/languages.php">languages supported by Babel</a>. However, participation may vary.</html:div>
      </internationalization>
    </target_environments>
  </plan>
