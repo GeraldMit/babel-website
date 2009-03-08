@@ -11,6 +11,7 @@
        <html:ul>
          <html:li>Source code tagged with "R1_0" in CVS repository</html:li>
          <html:li>Babel Runtime available as downloadable zip and at Babel Runtime Update Site</html:li>
+         <html:li>Babel Language Pack Update Site for Galileo</html:li>
          <html:li>Babel Language Pack Update Site for Ganymede</html:li>
          <html:li>Babel Language Pack Update Site for Europa</html:li>
          <html:li>Babel Language Pack downloadable zips</html:li>
