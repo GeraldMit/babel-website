@@ -9,17 +9,17 @@
    <release_deliverables>
      <html:div>
        <html:ul>
-         <html:li>Source code tagged with "R1_0" in CVS repository</li>
-         <html:li>Babel Runtime available as downloadable zip and at Babel Runtime Update Site</li>
-         <html:li>Babel Language Pack Update Site for Ganymede</li>
-         <html:li>Babel Language Pack Update Site for Europa</li>
-         <html:li>Babel Language Pack downloadable zips</li>
+         <html:li>Source code tagged with "R1_0" in CVS repository</html:li>
+         <html:li>Babel Runtime available as downloadable zip and at Babel Runtime Update Site</html:li>
+         <html:li>Babel Language Pack Update Site for Ganymede</html:li>
+         <html:li>Babel Language Pack Update Site for Europa</html:li>
+         <html:li>Babel Language Pack downloadable zips</html:li>
        </ul>
      </html:div>
    </release_deliverables>
    <release_milestones>
       <preamble>
-         <html:div>Release milestones will be aligned with the <html:a href="http://wiki.eclipse.org/Galileo_Simultaneous_Release">Galileo Simultaneous Release</a> train.</html:div>
+         <html:div>Release milestones will be aligned with the <html:a href="http://wiki.eclipse.org/Galileo_Simultaneous_Release">Galileo Simultaneous Release</html:a> train.</html:div>
       </preamble>
       <milestone date="04/01/2009" milestone="M1"><html:div>1.0M1</html:div></milestone>
       <milestone date="05/01/2009" milestone="M2"><html:div>1.0M2</html:div></milestone>
@@ -32,13 +32,13 @@
    <target_environments>
      <html:div>Babel translations is platform independent. Babel Runtime will be tested on the following platforms:
        <html:ul>
-         <html:li>Microsoft Windows Vista, x86-32, Win32</li>
-         <html:li>Microsoft Windows XP, x86-32, Win32</li>
-         <html:li>Red Hat Enterprise Linux 5.0, x86-32, GTK</li>
-       </ul>
+         <html:li>Microsoft Windows Vista, x86-32, Win32</html:li>
+         <html:li>Microsoft Windows XP, x86-32, Win32</html:li>
+         <html:li>Red Hat Enterprise Linux 5.0, x86-32, GTK</html:li>
+       </html:ul>
      </html:div>
      <internationalization>
-          <html:div>Babel Runtime is available for translation in the <html:a href="http://babel.eclipse.org/babel/languages.php">languages supported by Babel</a>. However, participation may vary.</html:div>
+          <html:div>Babel Runtime is available for translation in the <html:a href="http://babel.eclipse.org/babel/languages.php">languages supported by Babel</html:a>. However, participation may vary.</html:div>
      </internationalization>
    </target_environments>
  </plan>
