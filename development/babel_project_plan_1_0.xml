@@ -14,7 +14,7 @@
          <html:li>Babel Language Pack Update Site for Ganymede</html:li>
          <html:li>Babel Language Pack Update Site for Europa</html:li>
          <html:li>Babel Language Pack downloadable zips</html:li>
-       </ul>
+       </html:ul>
      </html:div>
    </release_deliverables>
    <release_milestones>
