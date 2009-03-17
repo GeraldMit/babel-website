@@ -106,9 +106,9 @@ ol#known-issues ul li{
 	<h2>Other downloads</h2>
 	<ul><li>Nightly Build update site: <b>http://build.eclipse.org/technology/babel/test-updates/ganymede</b></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
-	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
-	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a> (rebuilt nightly)</li>
+	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
+	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
 	</ul><br /><br /><br />
 	</div>
 </div>
