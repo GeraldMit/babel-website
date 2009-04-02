@@ -45,8 +45,8 @@
 	<tr><td width="60" valign="top" align="center">
 			<a href="http://babel.eclipse.org/"><img src="http://dev.eclipse.org/large_icons/categories/applications-internet.png"></a>
 				</td><td valign="top" class="packageDesc">
-				<b><a href="http://babel.eclipse.org/">Translate now</a></b><br />
-				<span>Go to the translation tool and help translate Eclipse.  It's easy!<br/></span>
+				<b>Translate now</b><br />
+				<span>Our translation server is currently offline for maintenance.  It will be back online by Monday, April 6 2009.<br/></span>
 			</td></tr>
 		<tr><td width="60" valign="top" align="center">
 			<a href="downloads.php"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png"></a>
