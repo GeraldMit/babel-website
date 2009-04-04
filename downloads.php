@@ -32,7 +32,7 @@
 	$ganymede_build_str = "";
 	$filename = $App->getDownloadBasePath() . "/technology/babel/babel_language_packs/index.php";
 	if(file_exists($filename)) {
-    	$build_date = date("F d Y", filemtime($filename));
+    	$build_date = date("F d, Y", filemtime($filename));
 	}
 
 	# Paste your HTML content between the EOHTML markers!	
@@ -68,7 +68,7 @@ ol#known-issues ul li{
 		<p><b>Babel Language Packs built on $build_date</b></p>
 
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Galileo</b></font><br />
-		Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7, Webtools 3.1 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+		Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/galileo</b></font></td></tr></table></p>
 
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Ganymede</b></font><br />
