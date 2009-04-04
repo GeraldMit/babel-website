@@ -30,19 +30,9 @@
 	# Get Build date
 	$europa_build_str 	= "";
 	$ganymede_build_str = "";
-	$filename = $App->getDownloadBasePath() . "/technology/babel/update-site/europa/site.xml";
-	if(file_exists($filename)) {
-    	$europa_build_str = " - built " . date("F d Y", filemtime($filename));
-	}
-	
-	$filename = $App->getDownloadBasePath() . "/technology/babel/update-site/ganymede/site.xml";
-	if(file_exists($filename)) {
-    	$ganymede_build_str = " - built " . date("F d Y", filemtime($filename));
-	}
-		
 	$filename = $App->getDownloadBasePath() . "/technology/babel/babel_language_packs/index.php";
 	if(file_exists($filename)) {
-    	$babel_language_packs_build_str = " - built " . date("F d Y", filemtime($filename));
+    	$build_date = date("F d Y", filemtime($filename));
 	}
 
 	# Paste your HTML content between the EOHTML markers!	
@@ -73,21 +63,28 @@ ol#known-issues ul li{
 		<h1>$pageTitle</h1>
 		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse Ganymede and Europa. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
-		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack ZIPs from the following link.</p>
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Ganymede$ganymede_build_str</b></font><br />
+		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack zips from the following link.</p>
+
+		<p><b>Babel Language Packs built on $build_date</b></p>
+
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Galileo</b></font><br />
+		Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7, Webtools 3.1 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+		<font size="+1">http://download.eclipse.org/technology/babel/update-site/galileo</b></font></td></tr></table></p>
+
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Ganymede</b></font><br />
 		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</b></font></td></tr></table></p>
-		
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Europa$europa_build_str</b></font><br />
+
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Europa</b></font><br />
 		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
 
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack ZIPs$babel_language_packs_build_str</b></font></a><br />
-		Includes Eclipse Ganymede and Europa<br />
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack zips</b></font></a><br />
+		Includes Eclipse Galileo, Ganymede and Europa<br />
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs">
 		<font size="+1"><b>http://download.eclipse.org/technology/babel/babel_language_packs</b></font>
 		</a></td></tr></table></p>
-		
+
 		<p>Before you download and use any of the language packs, please read these known issues:</p>
 		
 	  <ol id="known-issues" style='margin-left: 10px;'>
