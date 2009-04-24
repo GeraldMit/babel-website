@@ -22,19 +22,11 @@
 		possible.</p>
 		<p><img src="../images/new.gif"><b>Babel is looking for a project co-lead! </b> &#160; <a href="help_lead_babel.php"> Read more &raquo;</a></p>
 		
-		<p>Babel is a set of tools to make the job of globalizing
-		Eclipse projects easier. We also want to provide ways for people world
-		wide, who are interested, to contribute translations in their language
-		of choice.</p>
-		<p>The project includes tools and activities that
-		are needed to adapt the Eclipse deliverables to properly run in multiple
-		locales and to translate selected Eclipse projects into multiple
-		different languages (French, Japanese, German, etc). The project could
-		eventually include tools to aid in the following areas: Enablement testing (E.g.
-		can the software run in different language environments and handle
-		multiple scripts, etc.), translatability testing (is it ready for
-		translation?), preparation for translation (preparation of resource
-		bundles), Translation testing (Is the translation acceptable?), and more.</p>
+EOHTML;
+
+include("description.html");
+	
+$html = <<<EOHTML
 	<table width="100%" class="packages" cellspacing=0 cellpadding=0>
 		<tr><td width="60" valign="top" align="center">
 			<img src="/mylyn/images/community.jpg"></a>
