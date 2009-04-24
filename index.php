@@ -5,9 +5,10 @@
 	$pageTitle 		= "Eclipse Babel Project";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Jess Garms, Denis Roy";
-			
-	# Paste your HTML content between the EOHTML markers!	
-	$html = <<<EOHTML
+	ob_start();
+
+?>
+	
 <style>
 .packages img {	margin-right:5px;}
 .packages tr td{padding:7px 0;}
@@ -22,16 +23,13 @@
 		possible.</p>
 		<p><img src="../images/new.gif"><b>Babel is looking for a project co-lead! </b> &#160; <a href="help_lead_babel.php"> Read more &raquo;</a></p>
 		
-EOHTML;
+<?php include("description.html");  ?>
 
-include("description.html");
-	
-$html = <<<EOHTML
 	<table width="100%" class="packages" cellspacing=0 cellpadding=0>
 		<tr><td width="60" valign="top" align="center">
-			<img src="/mylyn/images/community.jpg"></a>
+			<img src="/mylyn/images/community.jpg">
 				</td><td valign="top" class="packageDesc">
-				<b>Community</a></b><br />
+				<b>Community</b><br />
 				<span><a href="/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a> &#160;|&#160; <a href="http://wiki.eclipse.org/Babel_/_Language_champions">Language Champions</a></span>
 			</td></tr>
 	<tr><td width="60" valign="top" align="center">
@@ -71,7 +69,10 @@ $html = <<<EOHTML
 		</div>
 	</div>
 </div>
-EOHTML;
+<?php 
+	$html = ob_get_contents();
+	ob_end_clean();
+
 
 	# Generate the web page
 	$App->generatePage($theme, $Menu, $Nav, $pageAuthor, $pageKeywords, $pageTitle, $html);
