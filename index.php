@@ -17,7 +17,7 @@
 </style>
 <div id="maincontent">
 	<div id="midcolumn">
-		<h1>$pageTitle</h1>
+		<h1><?= $pageTitle ?></h1>
 		<p>Eclipse is a global community. It is in everyone's interest
 		to ensure that Eclipse is available and translated in as many locales as
 		possible.</p>
