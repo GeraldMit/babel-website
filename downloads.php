@@ -66,10 +66,17 @@ ol#known-issues ul li{
 		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following link.</p>
 
 		<p><b>Babel Language Packs built on $build_date</b></p>
+		
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Zips</b></font></a><br />
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/galileo.php">Galileo</a> | 
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/ganymede.php">Ganymede</a> |
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/europa.php">Europa</a>
+		</td></tr></table></p>
+
 
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Galileo</b></font><br />
 		Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
-		<font size="+1">http://download.eclipse.org/technology/babel/update-site/galileo</b></font></td></tr></table></p>
+		<font size="+1">Update site currently unavailable.  Please see <a href="http://bugs.eclipse.org/274025">bug 274025</a></b></font></td></tr></table></p>
 
 		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Update Site for Ganymede</b></font><br />
 		Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
@@ -79,11 +86,6 @@ ol#known-issues ul li{
 		Includes Eclipse SDK 3.3 &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 		<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</b></font></td></tr></table></p>
 
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Zips</b></font></a><br />
-		Includes Eclipse Galileo, Ganymede and Europa<br />
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs">
-		<font size="+1"><b>http://download.eclipse.org/technology/babel/babel_language_packs</b></font>
-		</a></td></tr></table></p>
 
 		<p>Before you download and use any of the language packs, please read these known issues:</p>
 		
