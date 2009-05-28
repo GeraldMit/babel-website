@@ -103,7 +103,7 @@ ol#known-issues ul li{
 	  <br />
 	  
 	<h2>Other downloads</h2>
-	<ul><li>Developer and Nightly Builds: <b>http://build.eclipse.org/technology/babel</b></li>
+	<ul><li><a href="http://build.eclipse.org/technology/babel">Developer and Nightly Builds</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a> (rebuilt nightly)</li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
