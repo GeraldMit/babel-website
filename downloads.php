@@ -67,7 +67,7 @@ ol#known-issues ul li{
 
 		<p><b>Babel Language Packs built on $build_date</b></p>
 		
-		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+1"><b>Babel Language Pack Zips</b></font></a><br />
+		<p><table><tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+2"><b>Babel Language Pack Zips</b></font></a><br />
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/galileo.php">Galileo</a> | 
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/ganymede.php">Ganymede</a> |
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/europa.php">Europa</a>
@@ -103,7 +103,7 @@ ol#known-issues ul li{
 	  <br />
 	  
 	<h2>Other downloads</h2>
-	<ul><li>Nightly Build update site: <b>http://build.eclipse.org/technology/babel/test-updates/ganymede</b></li>
+	<ul><li>Developer and Nightly Builds: <b>http://build.eclipse.org/technology/babel</b></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a> (rebuilt nightly)</li>
 	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
