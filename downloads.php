@@ -67,12 +67,12 @@ ol#known-issues ul li{
 
 		<h3>Babel Language Packs - built on $build_date</h3>
 		
-		<p><table><tr><td valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+2"><b>Babel Language Pack Zips</b></font></a><br />
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/galileo.php">Galileo</a> | 
+		<p><table><tr><td rowspan="3" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+2"><b>Babel Language Pack Zips</b></font></a></td></tr>
+		<tr><td><a href="http://download.eclipse.org/technology/babel/babel_language_packs/galileo.php">Galileo</a> | 
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/ganymede.php">Ganymede</a> |
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/europa.php">Europa</a>
 		</td></tr>
-		<tr><td></td><td><a href="http://wiki.eclipse.org/Babel_/_Installing_Language_Packs">Installation instructions</a></td></tr>
+		<tr><td><a href="http://wiki.eclipse.org/Babel_/_Installing_Language_Packs">Installation instructions</a></td></tr>
 		</table></p>
 
 		<h3>Babel Update Sites - built on $build_date</h3>
