@@ -10,7 +10,6 @@
      <html:div>
        <html:ul>
          <html:li>Source code tagged with "R1_0" in CVS repository</html:li>
-         <html:li>Babel Runtime available as downloadable zip and at Babel Runtime Update Site</html:li>
          <html:li>Babel Language Pack Update Site for Galileo</html:li>
          <html:li>Babel Language Pack Update Site for Ganymede</html:li>
          <html:li>Babel Language Pack Update Site for Europa</html:li>
@@ -19,19 +18,12 @@
      </html:div>
    </release_deliverables>
    <release_milestones>
-      <preamble>
-         <html:div>Release milestones will be aligned with the <html:a href="http://wiki.eclipse.org/Galileo_Simultaneous_Release">Galileo Simultaneous Release</html:a> train.</html:div>
-      </preamble>
-      <milestone date="04/01/2009" milestone="M1"><html:div>1.0M1</html:div></milestone>
-      <milestone date="05/01/2009" milestone="M2"><html:div>1.0M2</html:div></milestone>
-      <milestone date="05/15/2009" milestone="RC1"><html:div>1.0RC1</html:div></milestone>
-      <milestone date="05/29/2009" milestone="RC2"><html:div>1.0RC2</html:div></milestone>
-      <milestone date="06/05/2009" milestone="RC3"><html:div>1.0RC3</html:div></milestone>
-      <milestone date="06/12/2009" milestone="RC4"><html:div>1.0RC4</html:div></milestone>
+      <milestone date="06/01/2009" milestone="RC1"><html:div>1.0RC1</html:div></milestone>
+      <milestone date="06/19/2009" milestone="RC2"><html:div>1.0RC2</html:div></milestone>
       <milestone date="06/28/2009" milestone="1.0"><html:div>1.0</html:div></milestone>
    </release_milestones>
    <target_environments>
-     <html:div>Babel translations is platform independent. Babel Runtime will be tested on the following platforms:
+     <html:div>Babel translations are platform independent. However, they have been tested on the following platforms:
        <html:ul>
          <html:li>Microsoft Windows Vista, x86-32, Win32</html:li>
          <html:li>Microsoft Windows XP, x86-32, Win32</html:li>
@@ -39,7 +31,7 @@
        </html:ul>
      </html:div>
      <internationalization>
-          <html:div>Babel Runtime is available for translation in the <html:a href="http://babel.eclipse.org/babel/languages.php">languages supported by Babel</html:a>. However, participation may vary.</html:div>
+          <html:div>Babel translations are available in the <html:a href="http://babel.eclipse.org/babel/languages.php">languages supported by Babel</html:a>. However, participation may vary.</html:div>
      </internationalization>
    </target_environments>
  </plan>
