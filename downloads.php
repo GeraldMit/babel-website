@@ -83,7 +83,7 @@ ol#known-issues ul li{
 					<td>
 						<font size="+1"><b>Babel Language Pack Update Site for Galileo</b></font><br />
 						<font size="+1">http://download.eclipse.org/technology/babel/update-site/galileo</font><br /><br />
-						Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7, etc &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+						Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7, and more &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 					</td>
 				</tr>
 			</table>
@@ -96,7 +96,7 @@ ol#known-issues ul li{
 					<td>
 						<font size="+1"><b>Babel Language Pack Update Site for Ganymede</b></font><br />
 						<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</font><br /><br />
-						Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0, etc &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+						Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0, and more &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 					</td>
 				</tr>
 			</table>
@@ -108,7 +108,7 @@ ol#known-issues ul li{
 				<td>
 					<font size="+1"><b>Babel Language Pack Update Site for Europa</b></font><br />
 					<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</font><br /><br />
-					Includes Eclipse SDK 3.3, BIRT 2.3, etc &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+					Includes Eclipse SDK 3.3, BIRT 2.3, and more &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
 					</td>
 				</tr>
 			</table>
