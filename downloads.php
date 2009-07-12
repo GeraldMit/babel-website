@@ -61,7 +61,15 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse Ganymede and Europa. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
+		<h3>The Babel team is very please to announce the Babel 0.7 Language Packs!</h3> 
+
+		<p>Although the Babel Project is still in incubation, we feel that the language packs are good enough to be
+		  consumed by the Eclipse community. Babel is currently setup to accept translation contributions in 34 languages
+		  for about 40+ Eclipse projects and sub-projects. Participation for each language and each project may vary.
+		  However, for some of the most common projects, the completion percentage is very high. For example,
+		  the Eclipse 3.5 project has 6 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
+
+		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse Galileo, Ganymede, and Europa. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
 		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following link.</p>
 
