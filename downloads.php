@@ -61,7 +61,7 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h3>The Babel team is very please to announce the Babel 0.7 Language Packs!</h3> 
+		<h3>The Babel team is very pleased to announce the Babel 0.7 Language Packs!</h3> 
 
 		<p>Although the Babel Project is still in incubation, we feel that the language packs are good enough to be
 		  consumed by the Eclipse community. Babel is currently setup to accept translation contributions in 34 languages
