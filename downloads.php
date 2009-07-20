@@ -34,6 +34,10 @@
 	if(file_exists($filename)) {
     	$build_date = date("F d, Y", filemtime($filename));
 	}
+	
+	# the index file date may be a little off from the build date, and confused people
+	# hard-code the 0.7 build date for now
+	$build_date = "June 20, 2009";
 
 	# Paste your HTML content between the EOHTML markers!	
 	$html = <<<EOHTML
