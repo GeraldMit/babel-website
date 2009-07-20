@@ -75,7 +75,7 @@ ol#known-issues ul li{
 
 		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse Galileo, Ganymede, and Europa. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
           Foundation Software User Agreement</a> unless otherwise specified.</p>
-		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following link.</p>
+		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following links.</p>
 
 		<h3>Babel Language Packs - built on $build_date</h3>
 		
