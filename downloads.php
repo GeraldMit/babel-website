@@ -65,21 +65,26 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h3>The Babel team is very pleased to announce the Babel 0.7 Language Packs!</h3> 
+		<h2>Babel Language Packs 0.7.1 are now available!</h2> 
 
-		<p>Although the Babel Project is still in incubation, we feel that the language packs are good enough to be
+		<p>Babel Language Packs 0.7.1 are now available! Translations in all languages for all projects
+		  in Babel up to November 21st, 2009 are included in 0.7.1.</p>
+
+		<p>Although the Babel project is still in incubation, we feel that the language packs are good enough to be
 		  consumed by the Eclipse community. Babel is currently setup to accept translation contributions in 34 languages
 		  for about 40+ Eclipse projects and sub-projects. Participation for each language and each project may vary.
-		  However, for some of the most common projects, the completion percentage is very high. For example,
+		  However, for some of the most common projects, the completion percentages are very high. For example,
 		  the Eclipse 3.5 project has 6 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
 
-		<p>The Babel Project is in incubation and has not yet produced full translations for Eclipse Galileo, Ganymede, and Europa. All downloads are provided under the terms and conditions of the <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse 
-          Foundation Software User Agreement</a> unless otherwise specified.</p>
+		<p>All downloads are provided under the terms and conditions of the
+		  <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User
+		  Agreement</a> unless otherwise specified.</p>
+
 		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following links.</p>
 
-		<h3>Babel Language Packs - built on $build_date</h3>
+		<h2>Babel Language Packs - 0.7.1</h2>
 		
-		<p><table><tr><td rowspan="3" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><font size="+2"><b>Babel Language Pack Zips</b></font></a></td></tr>
+		<p><table><tr><td rowspan="3" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><b>Babel Language Pack Zips</b></a></td></tr>
 		<tr><td><a href="http://download.eclipse.org/technology/babel/babel_language_packs/galileo.php">Galileo</a> | 
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/ganymede.php">Ganymede</a> |
 		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/europa.php">Europa</a>
@@ -87,15 +92,14 @@ ol#known-issues ul li{
 		<tr><td><a href="http://wiki.eclipse.org/Babel_/_Installing_Language_Packs">Installation instructions</a></td></tr>
 		</table></p>
 
-		<h3>Babel Update Sites - built on $build_date</h3>
+		<h2>Babel Update Sites - 0.7.1</h2>
 		<p>
 			<table>
 				<tr>
 					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 					<td>
-						<font size="+1"><b>Babel Language Pack Update Site for Galileo</b></font><br />
-						<font size="+1">http://download.eclipse.org/technology/babel/update-site/galileo</font><br /><br />
-						Includes Eclipse SDK 3.5, BIRT 2.5, Datatools 1.7, and more &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+						<b>Babel Language Pack Update Site for Galileo</b><br />
+						http://download.eclipse.org/technology/babel/update-site/galileo<br />
 					</td>
 				</tr>
 			</table>
@@ -106,9 +110,8 @@ ol#known-issues ul li{
 				<tr>
 					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 					<td>
-						<font size="+1"><b>Babel Language Pack Update Site for Ganymede</b></font><br />
-						<font size="+1">http://download.eclipse.org/technology/babel/update-site/ganymede</font><br /><br />
-						Includes Eclipse SDK 3.4, CDT 5.0, Webtools 3.0, and more &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+						<b>Babel Language Pack Update Site for Ganymede</b><br />
+						http://download.eclipse.org/technology/babel/update-site/ganymede<br />
 					</td>
 				</tr>
 			</table>
@@ -116,11 +119,11 @@ ol#known-issues ul li{
 
 		<p>
 			<table>
-				<tr><td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<font size="+1"><b>Babel Language Pack Update Site for Europa</b></font><br />
-					<font size="+1">http://download.eclipse.org/technology/babel/update-site/europa</font><br /><br />
-					Includes Eclipse SDK 3.3, BIRT 2.3, and more &#160;<a href="http://babel.eclipse.org/babel/importing.php">[Request more projects]</a><br />
+				<tr>
+					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+					<td>
+						<b>Babel Language Pack Update Site for Europa</b><br />
+						http://download.eclipse.org/technology/babel/update-site/europa<br />
 					</td>
 				</tr>
 			</table>
@@ -129,26 +132,30 @@ ol#known-issues ul li{
 
 		<p>Before you download and use any of the language packs, please read these known issues:</p>
 		
-	  <ol id="known-issues" style='margin-left: 10px;'>
-	  	<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.  
-	  	If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
-	  	<li>Not all languages are included in Babel yet.
-	  	Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
-	  </ol></p><br />
-	  <h2>Using the language packs</h2>
-	  <p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
-	  <p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
-	  <code>eclipse.exe -nl fr</code>
-	  <p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
-	  <br />
-	  
-	<h2>Other downloads</h2>
-	<ul><li><a href="http://build.eclipse.org/technology/babel">Developer and Nightly Builds</a></li>
-	<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
-	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a> (rebuilt nightly)</li>
-	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
-	<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
-	</ul><br /><br /><br />
+		<ul>
+  		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.  
+	  	  If you encounter a project that you would like to help translate, <a href="/projects">tell that project&quot;s leaders</a>.
+  		<li>Not all languages are included in Babel yet.
+			  Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
+		</ul>
+		<h2>Using the language packs</h2>
+		<p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
+		<p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
+		<code>eclipse.exe -nl fr</code>
+		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
+		<h2>Other downloads</h2>
+		<ul>
+		<li><a href="http://build.eclipse.org/technology/babel">Developer and Nightly Builds</a></li>
+		<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server Nightly mysqldump</a></li>
+		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a></li>
+		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
+		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
+		<li>Japanese translations of Mylyn and Web Tools Platform documentation for Ganymede<br />
+			<a href="/downloads/download.php?file=/technology/babel/babel_language_packs/BabelLanguagePack-tools.mylyn-doc-ja_3.4.0.v20091121043401.zip">mylyn-doc-ja</a> |
+			<a href="/downloads/download.php?file=/technology/babel/babel_language_packs/BabelLanguagePack-webtools-doc-ja_3.4.0.v20091121043401.zip">webtools-doc-ja</a> |
+			<a href="/downloads/download.php?file=/technology/babel/babel_language_packs/BabelLanguagePack-webtools.sourceediting-doc-ja_3.4.0.v20091121043401.zip">webtools.sourceediting-doc-ja</a>
+		</li>
+		</ul><br />
 	</div>
 </div>
 EOHTML;
