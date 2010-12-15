@@ -61,43 +61,43 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs 0.8.0 are now available!</h2> 
+		<h2>Babel Language Packs 0.8.1 are now available!</h2> 
 
-		<p>Babel Language Packs 0.8.0 are now available! Translations in all languages for all projects
-		  in Babel up to August 14th, 2010 are included in 0.8.0.</p>
+		<p>Babel Language Packs 0.8.1 are now available! Translations in all languages for all projects
+		  in Babel up to December 11th, 2010 are included in 0.8.1.</p>
 
 		<p>Although the Babel project is still in incubation, we feel that the language packs are good enough to be
 		  consumed by the Eclipse community. Babel is currently setup to accept translation contributions in 36 languages
 		  for about 40+ Eclipse projects and sub-projects. Participation for each language and each project may vary.
-		  However, for some of the most common projects, the completion percentages are very high. For example,
+		  For some of the most common projects, the completion percentages are very high. For example,
 		  the Eclipse 3.6 project has 5 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
 
 		<p>All downloads are provided under the terms and conditions of the
 		  <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User
 		  Agreement</a> unless otherwise specified.</p>
 
-		<p>The Babel project produces weekly language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following links.</p>
+		<p>The Babel project produces language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following links.</p>
 
-		<h2>Babel Language Packs - 0.8.0</h2>
+		<h2>Babel Language Packs - 0.8.1</h2>
 		
 		<p><table><tr><td rowspan="3" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td><td><b>Babel Language Pack Zips</b></a></td></tr>
 		<tr><td>
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.0/helios.php">Helios</a> | 
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.0/galileo.php">Galileo</a> | 
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.0/ganymede.php">Ganymede</a> |
-		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.0/europa.php">Europa</a>
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/helios.php">Helios</a> | 
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/galileo.php">Galileo</a> | 
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/ganymede.php">Ganymede</a> |
+		<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/europa.php">Europa</a>
 		</td></tr>
 		<tr><td><a href="http://wiki.eclipse.org/Babel_/_Installing_Language_Packs">Installation instructions</a></td></tr>
 		</table></p>
 
-		<h2>Babel Update Sites - 0.8.0</h2>
+		<h2>Babel Update Sites - 0.8.1</h2>
 		<p>
 			<table>
 				<tr>
 					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 					<td>
 						<b>Babel Language Pack Update Site for Helios</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.0/helios<br />
+						http://download.eclipse.org/technology/babel/update-site/R0.8.1/helios<br />
 					</td>
 				</tr>
 			</table>
@@ -109,7 +109,7 @@ ol#known-issues ul li{
 					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 					<td>
 						<b>Babel Language Pack Update Site for Galileo</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.0/galileo<br />
+						http://download.eclipse.org/technology/babel/update-site/R0.8.1/galileo<br />
 					</td>
 				</tr>
 			</table>
@@ -121,7 +121,7 @@ ol#known-issues ul li{
 					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 					<td>
 						<b>Babel Language Pack Update Site for Ganymede</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.0/ganymede<br />
+						http://download.eclipse.org/technology/babel/update-site/R0.8.1/ganymede<br />
 					</td>
 				</tr>
 			</table>
@@ -133,7 +133,7 @@ ol#known-issues ul li{
 					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 					<td>
 						<b>Babel Language Pack Update Site for Europa</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.0/europa<br />
+						http://download.eclipse.org/technology/babel/update-site/R0.8.1/europa<br />
 					</td>
 				</tr>
 			</table>
