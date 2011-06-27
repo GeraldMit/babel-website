@@ -122,42 +122,6 @@ ol#known-issues ul li{
 			</tr>
 		</table>
 
-		<p>
-			<table>
-				<tr>
-					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-					<td>
-						<b>Babel Language Pack Update Site for Galileo</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.1/galileo<br />
-					</td>
-				</tr>
-			</table>
-		</p>
-
-		<p>
-			<table>
-				<tr>
-					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-					<td>
-						<b>Babel Language Pack Update Site for Ganymede</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.1/ganymede<br />
-					</td>
-				</tr>
-			</table>
-		</p>
-
-		<p>
-			<table>
-				<tr>
-					<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-					<td>
-						<b>Babel Language Pack Update Site for Europa</b><br />
-						http://download.eclipse.org/technology/babel/update-site/R0.8.1/europa<br />
-					</td>
-				</tr>
-			</table>
-		</p>
-
 		<p>Before you download and use any of the language packs, please read these known issues:</p>
 		<ul>
   		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.  
