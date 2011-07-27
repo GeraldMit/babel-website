@@ -71,7 +71,7 @@ ol#known-issues ul li{
 			Participation for each language and each project may vary.
 			For some of the most common projects, the completion percentages are very high.
 			For example, the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.
-			See the Babel Translation Statistics <a href="http://babel.eclipse.org/babel/stats.php">here</a>.</p>
+			See the <a href="http://babel.eclipse.org/babel/stats.php">Babel Translation Statistics</a> for more details.</p>
 
 		<p>All downloads are provided under the terms and conditions of the 
 			<a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User Agreement</a>
