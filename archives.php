@@ -15,7 +15,7 @@ $html = <<<EOHTML
 
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-<!--
+
 		<h2>Babel Language Pack Zips and Update Sites - R0.8.1 (2010/12/11)</h2>
 		<table>
 			<tr>
@@ -59,7 +59,7 @@ $html = <<<EOHTML
 				</td>
 			</tr>
 		</table>
--->
+
 		<h2>Babel Language Pack Zips and Update Sites - R0.8.0 (2010/08/14)</h2>
 		<table>
 			<tr>

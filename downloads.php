@@ -61,24 +61,23 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs 0.8.1 are now available!</h2> 
+		<h2>Babel Language Packs R0.9.0 are now available!</h2> 
 
-		<p>Babel Language Packs 0.8.1 are now available! Translations in all languages for all projects
-		  in Babel up to December 11th, 2010 are included in 0.8.1.</p>
+		<p>Babel Language Packs R0.9.0 are now available! Translations in all languages for all projects
+		  in Babel up to July 23rd, 2011 are included in R0.9.0.</p>
 
-		<p>Although the Babel project is still in incubation, we feel that the language packs are good enough to be
-		  consumed by the Eclipse community. Babel is currently setup to accept translation contributions in 36 languages
+		<p>Babel is currently setup to accept translation contributions in 38 languages
 		  for about 40+ Eclipse projects and sub-projects. Participation for each language and each project may vary.
 		  For some of the most common projects, the completion percentages are very high. For example,
-		  the Eclipse 3.6 project has 5 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
+		  the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
 
 		<p>All downloads are provided under the terms and conditions of the
 		  <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User
 		  Agreement</a> unless otherwise specified.</p>
 
-		<p>The Babel project produces language packs from the translations entered using the Translation Tool. You can use the Babel Language Pack Update Sites to download the languages packs, or download the Babel Language Pack Zips from the following links.</p>
+		<p>The Babel project produces language packs from the translations entered using the Translation Tool. You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
 
-		<h2>Babel Language Pack Zips and Update Sites - R0.8.1 (2010/12/11)</h2>
+		<h2>Babel Language Pack Zips and Update Sites - R0.9.0 (2011/07/23)</h2>
 		<table>
 			<tr>
 				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
@@ -86,48 +85,46 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/helios.php">Helios</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/galileo.php">Galileo</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/ganymede.php">Ganymede</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.1/europa.php">Europa</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/indigo/indigo.php">Indigo</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/helios/helios.php">Helios</a> | 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/galileo/galileo.php">Galileo</a> | 
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Indigo</b><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.9.0/indigo<br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Helios</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.8.1/helios<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.9.0/helios<br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Galileo</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.8.1/galileo<br />
-				</td>
-			</tr>
-			<tr>
-				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for Ganymede</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.8.1/ganymede<br />
-				</td>
-			</tr>
-			<tr>
-				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for Europa</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.8.1/europa<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.9.0/galileo<br />
 				</td>
 			</tr>
 		</table>
 
-		<p>Before you download and use any of the language packs, please read these known issues:</p>
+		<h2>Notes for Babel Language Packs R0.9.0</h2>
 		<ul>
-  		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.  
-	  	  If you encounter a project that you would like to help translate, <a href="/projects">tell that project&quot;s leaders</a>.
-  		<li>Not all languages are included in Babel yet.
-			  Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
+		<li>Two releases of the Eclipse project (4.1 & 3.7) are included in the Indigo release train.
+			The Babel Indigo language packs for the Eclipse project contain translations for both releases of the Eclipse project.
+			They can be used for both releases of the Eclipse project.
+		<li>An enhancement has been added to the Babel Language Pack Update Sites to categorize the language packs by projects, in additional to categorizing by languages.
+			Users will be able to find language packs in all available languages for a certain project easily.
+		<li>Babel Language Packs for older release trains can be found at <a href="http://www.eclipse.org/babel/archives.php">Eclipse Babel Project Archived Downloads</a>.
+		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
+			If you encounter a project that you would like to help translate, <a href="/projects">tell that project&quot;s leaders</a>.
+		<li>Not all languages are included in Babel yet.
+			Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 		</ul>
 
 		<h2>Installing the language packs</h2>
