@@ -64,18 +64,20 @@ ol#known-issues ul li{
 		<h2>Babel Language Packs R0.9.0 are now available!</h2> 
 
 		<p>Babel Language Packs R0.9.0 are now available! Translations in all languages for all projects
-		  in Babel up to July 23rd, 2011 are included in R0.9.0.</p>
+			in Babel up to July 23rd, 2011 are included in R0.9.0.</p>
 
-		<p>Babel is currently setup to accept translation contributions in 38 languages
-		  for about 40+ Eclipse projects and sub-projects. Participation for each language and each project may vary.
-		  For some of the most common projects, the completion percentages are very high. For example,
-		  the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
+		<p>Babel is currently setup to accept translation contributions in 38 languages for about 40+ Eclipse projects and sub-projects.
+			Participation for each language and each project may vary.
+			For some of the most common projects, the completion percentages are very high.
+			For example, the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
 
-		<p>All downloads are provided under the terms and conditions of the
-		  <a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User
-		  Agreement</a> unless otherwise specified.</p>
+		<p>All downloads are provided under the terms and conditions of the 
+			<a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User Agreement</a>
+			unless otherwise specified.</p>
 
-		<p>The Babel project produces language packs from the translations entered using the Translation Tool. You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
+		<p>The Babel project produces language packs from the translations entered using the 
+			<a href="http://babel.eclipse.org/babel/translate.php">Babel Translation Tool</a>.
+			You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
 
 		<h2>Babel Language Pack Zips and Update Sites - R0.9.0 (2011/07/23)</h2>
 		<table>
@@ -85,7 +87,7 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/indigo/indigo.php">Indigo</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/indigo/indigo.php">Indigo</a> |
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/helios/helios.php">Helios</a> | 
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/galileo/galileo.php">Galileo</a> | 
 				</td>
