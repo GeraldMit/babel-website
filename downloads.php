@@ -66,10 +66,12 @@ ol#known-issues ul li{
 		<p>Babel Language Packs R0.9.0 are now available! Translations in all languages for all projects
 			in Babel up to July 23rd, 2011 are included in R0.9.0.</p>
 
-		<p>Babel is currently setup to accept translation contributions in 38 languages for about 40+ Eclipse projects and sub-projects.
+		<p>Babel is currently setup to accept translation contributions in
+			<a href="http://babel.eclipse.org/babel/languages.php">38 languages</a> for about 40+ Eclipse projects and sub-projects.
 			Participation for each language and each project may vary.
 			For some of the most common projects, the completion percentages are very high.
-			For example, the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.</p>
+			For example, the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.
+			See the Babel Translation Statistics <a href="http://babel.eclipse.org/babel/stats.php">here</a>.</p>
 
 		<p>All downloads are provided under the terms and conditions of the 
 			<a href="http://www.eclipse.org/legal/epl/notice.php" target="_blank">Eclipse Foundation Software User Agreement</a>
