@@ -115,7 +115,7 @@ ol#known-issues ul li{
 			</tr>
 		</table>
 
-		<h2>Notes for Babel Language Packs R0.9.0</h2>
+		<h2>Important notes for Babel Language Packs R0.9.0</h2>
 		<ul>
 		<li>Two releases of the Eclipse project (4.1 & 3.7) are included in the Indigo release train.
 			The Babel Indigo language packs for the Eclipse project contain translations for both releases of the Eclipse project.
