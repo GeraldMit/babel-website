@@ -61,13 +61,13 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.9.0 are now available!</h2> 
+		<h2>Babel Language Packs R0.9.1 are now available!</h2> 
 
-		<p>Babel Language Packs R0.9.0 are now available! Translations in all languages for all projects
-			in Babel up to July 23rd, 2011 are included in R0.9.0.</p>
+		<p>Babel Language Packs R0.9.1 are now available! Translations in all languages for all projects
+			in Babel up to November 28th, 2011 are included in R0.9.1.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
-			<a href="http://babel.eclipse.org/babel/languages.php">38 languages</a> for about 40+ Eclipse projects and sub-projects.
+			<a href="http://babel.eclipse.org/babel/languages.php">40 languages</a> for about 40+ Eclipse projects and sub-projects.
 			Participation for each language and each project may vary.
 			For some of the most common projects, the completion percentages are very high.
 			For example, the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.
@@ -81,7 +81,7 @@ ol#known-issues ul li{
 			<a href="http://babel.eclipse.org/babel/translate.php">Babel Translation Tool</a>.
 			You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
 
-		<h2>Babel Language Pack Zips and Update Sites - R0.9.0 (2011/07/23)</h2>
+		<h2>Babel Language Pack Zips and Update Sites - R0.9.1 (2011/11/28)</h2>
 		<table>
 			<tr>
 				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
@@ -89,35 +89,35 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/indigo/indigo.php">Indigo</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/helios/helios.php">Helios</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.0/galileo/galileo.php">Galileo</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/indigo/indigo.php">Indigo</a> | 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/helios/helios.php">Helios</a> | 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/galileo/galileo.php">Galileo</a>
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Indigo</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.9.0/indigo<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.9.1/indigo<br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Helios</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.9.0/helios<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.9.1/helios<br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Galileo</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.9.0/galileo<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.9.1/galileo<br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.9.0</h2>
+		<h2>Important notes for Babel Language Packs R0.9.1</h2>
 		<ul>
 		<li>Two releases of the Eclipse project (4.1 & 3.7) are included in the Indigo release train.
 			The Babel Indigo language packs for the Eclipse project contain translations for both releases of the Eclipse project.
