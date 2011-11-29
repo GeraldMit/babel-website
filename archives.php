@@ -16,6 +16,80 @@ $html = <<<EOHTML
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
 
+<!--
+		<h2>Babel Language Pack Zips and Update Sites - R0.9.1 (2011/11/28)</h2>
+		<table>
+			<tr>
+				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td><b>Babel Language Pack Zips</b></td>
+			</tr>
+			<tr>
+				<td>
+					<a href="http://archive.eclipse.org/technology/babel/babel_language_packs/R0.9.1/indigo/indigo.php">Indigo</a> | 
+					<a href="http://archive.eclipse.org/technology/babel/babel_language_packs/R0.9.1/helios/helios.php">Helios</a> | 
+					<a href="http://archive.eclipse.org/technology/babel/babel_language_packs/R0.9.1/galileo/galileo.php">Galileo</a>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Indigo</b><br />
+					http://archive.eclipse.org/technology/babel/update-site/R0.9.1/indigo<br />
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Helios</b><br />
+					http://archive.eclipse.org/technology/babel/update-site/R0.9.1/helios<br />
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Galileo</b><br />
+					http://archive.eclipse.org/technology/babel/update-site/R0.9.1/galileo<br />
+				</td>
+			</tr>
+		</table>
+-->
+
+		<h2>Babel Language Pack Zips and Update Sites - R0.9.0 (2011/07/23)</h2>
+		<table>
+			<tr>
+				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td><b>Babel Language Pack Zips</b></td>
+			</tr>
+			<tr>
+				<td>
+					<a href="http://archive.eclipse.org/technology/babel/babel_language_packs/R0.9.0/indigo/indigo.php">Indigo</a> | 
+					<a href="http://archive.eclipse.org/technology/babel/babel_language_packs/R0.9.0/helios/helios.php">Helios</a> | 
+					<a href="http://archive.eclipse.org/technology/babel/babel_language_packs/R0.9.0/galileo/galileo.php">Galileo</a>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Indigo</b><br />
+					http://archive.eclipse.org/technology/babel/update-site/R0.9.0/indigo<br />
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Helios</b><br />
+					http://archive.eclipse.org/technology/babel/update-site/R0.9.0/helios<br />
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Galileo</b><br />
+					http://archive.eclipse.org/technology/babel/update-site/R0.9.0/galileo<br />
+				</td>
+			</tr>
+		</table>
+
 		<h2>Babel Language Pack Zips and Update Sites - R0.8.1 (2010/12/11)</h2>
 		<table>
 			<tr>
