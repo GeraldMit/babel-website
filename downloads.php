@@ -126,7 +126,7 @@ ol#known-issues ul li{
 			Users will be able to find language packs in all available languages for a certain project easily.
 		<li>Babel Language Packs for older release trains can be found at <a href="http://www.eclipse.org/babel/archives.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
-			If you encounter a project that you would like to help translate, <a href="/projects">tell that project&quot;s leaders</a>.
+			If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
 		<li>Not all languages are included in Babel yet.
 			Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 		</ul>
