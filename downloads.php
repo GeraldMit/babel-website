@@ -61,16 +61,15 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.9.1 are now available!</h2> 
+		<h2>Babel Language Packs R0.10.0 are now available!</h2> 
 
-		<p>Babel Language Packs R0.9.1 are now available! Translations in all languages for all projects
-			in Babel up to November 28th, 2011 are included in R0.9.1.</p>
+		<p>Babel Language Packs R0.10.0 for Juno, Indigo, and Helios release trains are now available!
+			Translations in all languages for all projects in Babel up to July 21st, 2012 are included in R0.10.0.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="http://babel.eclipse.org/babel/languages.php">40 languages</a> for about 40+ Eclipse projects and sub-projects.
 			Participation for each language and each project may vary.
 			For some of the most common projects, the completion percentages are very high.
-			For example, the Eclipse 3.7 project has 4 languages that are 90%+ complete, 23 languages that are 70%+ complete.
 			See the <a href="http://babel.eclipse.org/babel/stats.php">Babel Translation Statistics</a> for more details.</p>
 
 		<p>All downloads are provided under the terms and conditions of the 
@@ -81,7 +80,7 @@ ol#known-issues ul li{
 			<a href="http://babel.eclipse.org/babel/translate.php">Babel Translation Tool</a>.
 			You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
 
-		<h2>Babel Language Pack Zips and Update Sites - R0.9.1 (2011/11/28)</h2>
+		<h2>Babel Language Pack Zips and Update Sites - R0.10.0 (2012/07/21)</h2>
 		<table>
 			<tr>
 				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
@@ -89,42 +88,42 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/indigo/indigo.php">Indigo</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/helios/helios.php">Helios</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.9.1/galileo/galileo.php">Galileo</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/galileo/juno.php">Juno</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/indigo/indigo.php">Indigo</a> | 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/helios/helios.php">Helios</a> | 
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Juno</b><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.10.0/juno<br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Indigo</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.9.1/indigo<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.10.0/indigo<br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Helios</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.9.1/helios<br />
-				</td>
-			</tr>
-			<tr>
-				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for Galileo</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.9.1/galileo<br />
+					http://download.eclipse.org/technology/babel/update-site/R0.10.0/helios<br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.9.1</h2>
+		<h2>Important notes for Babel Language Packs R0.10.0</h2>
 		<ul>
-		<li>Two releases of the Eclipse project (4.1 & 3.7) are included in the Indigo release train.
-			The Babel Indigo language packs for the Eclipse project contain translations for both releases of the Eclipse project.
-			They can be used for both releases of the Eclipse project.
+		<li>Two releases of the Eclipse project (4.2 & 3.8) are included in the Juno release train.
+			The Babel Juno language packs for the Eclipse project contain translations for both releases of the Eclipse project.
+			They can be used in both releases of the Eclipse project.
 		<li>An enhancement has been added to the Babel Language Pack Update Sites to categorize the language packs by projects, in additional to categorizing by languages.
 			Users will be able to find language packs in all available languages for a certain project easily.
-		<li>Babel Language Packs for older release trains can be found at <a href="http://www.eclipse.org/babel/archives.php">Eclipse Babel Project Archived Downloads</a>.
+		<li>Babel Language Packs for older release trains can be found at <a href="http://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
 			If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
 		<li>Not all languages are included in Babel yet.
@@ -140,10 +139,15 @@ ol#known-issues ul li{
 		<p><code>eclipse.exe -nl fr</code></p>
 		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
+		<h2>Babel Pseudo Translations</h2>
+		<p>Babel Pseudo Translations are a very useful tool for globalization testing of Eclipse projects.</p>
+		<p>See the <a href="http://www.eclipse.org/articles/Article-babel-pseudo-translations/article.html">"Babel Pseudo Translations"</a> Eclipse Corner Article for step-by-step instructions and examples describing what are the Babel Pseudo Translations, where to download them, how to install them, and how to launch Eclipse in Babel Pseudo Translations.</p>
+		<p>Eclipse developers can use the Babel Pseudo Translations to verify the translatability of their projects and make sure Eclipse excels in national language support.</p>
+
 		<h2>Other downloads</h2>
 		<ul>
 		<li><a href="http://build.eclipse.org/technology/babel/babel_language_packs/">Developer and Nightly Builds</a></li>
-		<li><a href="http://www.eclipse.org/babel/archives.php">Eclipse Babel Project Archived Downloads</a></li>
+		<li><a href="http://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server weekly mysqldump</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
