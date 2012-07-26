@@ -21,7 +21,6 @@
 		<p>Eclipse is a global community. It is in everyone's interest
 		to ensure that Eclipse is available and translated in as many locales as
 		possible.</p>
-		<p><img src="../images/new.gif"><b>Babel is looking for a project co-lead! </b> &#160; <a href="help_lead_babel.php"> Read more &raquo;</a></p>
 		
 <?php include("description.html");  ?>
 
