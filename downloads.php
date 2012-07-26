@@ -88,9 +88,9 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/juno/juno.php">Juno</a> |
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/juno/juno.php">Juno</a> | 
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/indigo/indigo.php">Indigo</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/helios/helios.php">Helios</a> 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/helios/helios.php">Helios</a>
 				</td>
 			</tr>
 			<tr>
