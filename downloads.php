@@ -98,7 +98,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for Juno</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.10.0/juno<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.0/juno.zip">Zipped p2 repository (115 MB)</a><br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.0/babel-R0.10.0-juno.zip">Zipped p2 repository (115 MB)</a><br />
 				</td>
 			</tr>
 			<tr>
