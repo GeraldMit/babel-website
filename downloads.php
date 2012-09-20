@@ -16,7 +16,7 @@
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Eclipse Babel Project Downloads";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
-	$pageAuthor		= "Jess Garms";
+	$pageAuthor		= "Babel team";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
