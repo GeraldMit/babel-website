@@ -14,7 +14,7 @@
 		<img align="left" src="http://dev.eclipse.org/huge_icons/categories/applications-internet.png" style="padding-right: 5px; padding-bottom: 50px;" /><p>The goal of the Babel project is to have multiple companies and individuals 
 		from the open source community to coordinate together to set the strategies 
 		and directions for globalizing the Eclipse projects. Eclipse is a global community. 
-		It is in everyone’s interest to ensure that Eclipse is globalized and translated 
+		It is in everyone's interest to ensure that Eclipse is globalized and translated 
 		in as many languages as possible.</p>
 		<p>We need your help to make Eclipse a worldwide success! If you, as a company or 
 		individual, would like to step forward to help co-lead the Eclipse Babel Project, 
