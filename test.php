@@ -61,7 +61,6 @@
          <a href="/projects/dev_process/validation-phase.php">Incubation Phase</a>
        </div>
      </div>
-
 	  <div class="sideitem">
 			<h6>Links</h6>
 			<ul>
