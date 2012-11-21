@@ -67,7 +67,6 @@
 				<li><a href="http://www.eclipse.org/proposals/babel/" target="_blank">Project Proposal</a></li>
 			</ul>
 		</div>
-	
 </div>
 EOHTML;
 
