@@ -12,11 +12,10 @@
 	#
 	#****************************************************************************
 	
-	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Eclipse Babel Project Downloads";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
-	$pageAuthor		= "Jess Garms";
+	$pageAuthor		= "Babel Team";
 	
 	# Add page-specific Nav bars here
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
@@ -35,7 +34,7 @@
 		<h1>$pageTitle</h1>
 		<h2>Section title</h2>
 		<p>
-		Eclipse is a global community. It is in everyone’s interest
+		Eclipse is a global community. It is in everyoneï¿½s interest
 		to ensure that Eclipse is available and translated in as many locales as
 		possible. 
 		</p>
