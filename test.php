@@ -46,7 +46,6 @@
 		translation?), preparation for translation (preparation of resource
 		bundles), Translation testing (Is the translation acceptable?), and more.
 		</p>
-
 	</div>
 	<div id="rightcolumn">
      <div class="sideitem">
