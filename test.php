@@ -17,8 +17,7 @@
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Babel Team";
 	
-		
-	# Paste your HTML content between the EOHTML markers!	
+	
 	$html = <<<EOHTML
 
 <div id="maincontent">
