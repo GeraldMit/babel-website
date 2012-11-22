@@ -98,9 +98,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for Juno</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.10.1/juno<br />
-					<!--
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-juno.zip">Zipped p2 repository (117 MB)</a><br />
-					-->
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-juno.zip">Zipped p2 repository (135 MB)</a><br />
 				</td>
 			</tr>
 			<tr>
@@ -108,9 +106,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for Indigo</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.10.1/indigo<br />
-					<!--
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-indigo.zip">Zipped p2 repository (109 MB)</a><br />
-					-->
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-indigo.zip">Zipped p2 repository (124 MB)</a><br />
 				</td>
 			</tr>
 			<tr>
@@ -118,9 +114,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for Helios</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.10.1/helios<br />
-					<!--
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-helios.zip">Zipped p2 repository (131 MB)</a><br />
-					-->
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-helios.zip">Zipped p2 repository (138 MB)</a><br />
 				</td>
 			</tr>
 		</table>
