@@ -61,10 +61,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.10.0 are now available!</h2> 
+		<h2>Babel Language Packs R0.10.1 are now available!</h2> 
 
-		<p>Babel Language Packs R0.10.0 for Juno, Indigo, and Helios release trains are now available!
-			Translations in all languages for all projects in Babel up to July 21st, 2012 are included in R0.10.0.</p>
+		<p>Babel Language Packs R0.10.1 for Juno, Indigo, and Helios release trains are now available!
+			Translations in all languages for all projects in Babel up to November 20th, 2012 are included in R0.10.1.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="http://babel.eclipse.org/babel/languages.php">40 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -80,7 +80,7 @@ ol#known-issues ul li{
 			<a href="http://babel.eclipse.org/babel/translate.php">Babel Translation Tool</a>.
 			You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
 
-		<h2>Babel Language Pack Zips and Update Sites - R0.10.0 (2012/07/21)</h2>
+		<h2>Babel Language Pack Zips and Update Sites - R0.10.1 (2012/11/20)</h2>
 		<table>
 			<tr>
 				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
@@ -88,38 +88,44 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/juno/juno.php">Juno</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/indigo/indigo.php">Indigo</a> | 
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.0/helios/helios.php">Helios</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.1/juno/juno.php">Juno</a> | 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.1/indigo/indigo.php">Indigo</a> | 
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.10.1/helios/helios.php">Helios</a>
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Juno</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.10.0/juno<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.0/babel-R0.10.0-juno.zip">Zipped p2 repository (117 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.10.1/juno<br />
+					<!--
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-juno.zip">Zipped p2 repository (117 MB)</a><br />
+					-->
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Indigo</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.10.0/indigo<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.0/babel-R0.10.0-indigo.zip">Zipped p2 repository (109 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.10.1/indigo<br />
+					<!--
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-indigo.zip">Zipped p2 repository (109 MB)</a><br />
+					-->
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Helios</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.10.0/helios<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.0/babel-R0.10.0-helios.zip">Zipped p2 repository (131 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.10.1/helios<br />
+					<!--
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.10.1/babel-R0.10.1-helios.zip">Zipped p2 repository (131 MB)</a><br />
+					-->
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.10.0</h2>
+		<h2>Important notes for Babel Language Packs R0.10.1</h2>
 		<ul>
 		<li>Two releases of the Eclipse project (4.2 & 3.8) are included in the Juno release train.
 			The Babel Juno language packs for the Eclipse project contain translations for both releases of the Eclipse project.
