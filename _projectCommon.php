@@ -9,14 +9,8 @@
 	# Define your project-wide Nav bars here.
 	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
 	# these are optional
-	#$Nav->addNavSeparator("Project Home", 	"/");
-	#$Nav->addCustomNav("Downloads", 		"downloads.php", 	"_self", 2);
-	#$Nav->addCustomNav("Installation", 		"install.php", 		"_self", 2);
-	#$Nav->addCustomNav("FAQ", 				"faq.php", 			"_self", 2);
-
-require_once($_SERVER['DOCUMENT_ROOT'] . "/projects/common/project-info.class.php");
-$projectInfo = new ProjectInfo("technology.babel");
-$projectInfo->generate_common_nav( $Nav );
-
-
+	$Nav->addNavSeparator("Project Home", 	"/babel");
+	$Nav->addCustomNav("Downloads", 		"downloads.php", 	"_self", 2);
+	$Nav->addCustomNav("Installation", 		"install.php", 		"_self", 2);
+	$Nav->addCustomNav("FAQ", 				"faq.php", 			"_self", 2);
 ?>
