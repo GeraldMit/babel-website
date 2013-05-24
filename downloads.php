@@ -155,11 +155,6 @@ ol#known-issues ul li{
 		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
-		<li>Japanese translations of Mylyn and Web Tools Platform documentation for Ganymede<br />
-			<a href="/downloads/download.php?file=/technology/babel/babel_language_packs/BabelLanguagePack-tools.mylyn-doc-ja_3.4.0.v20091121043401.zip">mylyn-doc-ja</a> |
-			<a href="/downloads/download.php?file=/technology/babel/babel_language_packs/BabelLanguagePack-webtools-doc-ja_3.4.0.v20091121043401.zip">webtools-doc-ja</a> |
-			<a href="/downloads/download.php?file=/technology/babel/babel_language_packs/BabelLanguagePack-webtools.sourceediting-doc-ja_3.4.0.v20091121043401.zip">webtools.sourceediting-doc-ja</a>
-		</li>
 		</ul><br />
 	</div>
 </div>
