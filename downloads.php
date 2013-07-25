@@ -126,7 +126,7 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/orion_language_packs/R0.11.0/kepler/kepler.php">Kepler</a> |
+					<a href="http://download.eclipse.org/technology/babel/orion_language_packs/R0.11.0/kepler/kepler.php">Kepler</a>
 				</td>
 			</tr>
 		</table>
