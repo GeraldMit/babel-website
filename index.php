@@ -29,16 +29,16 @@
 			<img src="/mylyn/images/community.jpg">
 				</td><td valign="top" class="packageDesc">
 				<b>Community</b><br />
-				<span><a href="/forums/index.php/f/42/">Newsgroup</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a> &#160;|&#160; <a href="http://wiki.eclipse.org/Babel_/_Language_champions">Language Champions</a></span>
+				<span><a href="/forums/index.php/f/42/">Newsgroup</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a> &#160;|&#160; <a href="http://wiki.eclipse.org/Babel_/_Language_champions">Language Champions</a></span>
 			</td></tr>
 	<tr><td width="60" valign="top" align="center">
-			<a href="http://babel.eclipse.org/"><img src="http://dev.eclipse.org/large_icons/categories/applications-internet.png"></a>
+			<a href="http://babel.eclipse.org/"><img src="//dev.eclipse.org/large_icons/categories/applications-internet.png"></a>
 				</td><td valign="top" class="packageDesc">
 				<b><a href="http://babel.eclipse.org/">Translate now</a></b><br />
 				<span>Go to the translation tool and help translate Eclipse.  It's easy!<br/></span>
 			</td></tr>
 		<tr><td width="60" valign="top" align="center">
-			<a href="downloads.php"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png"></a>
+			<a href="downloads.php"><img src="//dev.eclipse.org/large_icons/actions/go-bottom.png"></a>
 				</td><td valign="top" class="packageDesc">
 				<b><a href="downloads.php">Downloads</a></b><br />
 				<span>Download Eclipse language packs.<br/></span>
