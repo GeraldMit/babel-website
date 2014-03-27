@@ -52,7 +52,7 @@
 			<li><a href="http://www.eclipse.org/forums/eclipse.technology.babel">Forum</a></li>
 			<li><a href="http://git.eclipse.org/c/babel">Git repositories for Plugins and Translation Server</a></li>
 		</ul>
-		<h6>Web-based server translation tool</h6>
+		<div class="sectionTitle">Web-based server translation tool</div>
 		<p>The <a href="http://babel.eclipse.org/babel">translation tool</a> is a LAMP application, so anyone with PHP and MySQL knowledge can contribute code. To help out:</p>
 		<ul>
 			<li><a href="http://wiki.eclipse.org/Babel_/_Server_Tool_Development_Process">Set up a Babel development environment</a> and read our development process.</li>
@@ -60,7 +60,7 @@
 		</ul><p>Use the developer mailing lists (above) to discuss development issues. If you submit quality patches consistently, the Babel developers may nominate you as a committer.</p>	
 		
 		
-		<h6>Messages editor</h6>
+		<div class="sectionTitle">Messages editor</div>
 		<ul>
 		<li><a href="../messages_editor">Messages Editor</a> documentation</li></ul>
 		<br /><br />
