@@ -33,12 +33,10 @@
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<p>The Babel Project is still in the early stages of development.
-		Here are resources available if you want to get involved:
+		<p>	Here are resources available if you want to get involved:
 		
-		<div class="sectionTitle">Meet the Babel team</div>
-		<p align="center"><img src="babel-team.jpg" alt="Babel team"><br />
-		<font size="small">Left to right: Chris Nguyen, Denis Roy, Nigel Westbury, Gabe O'Brien and Kit Lo at EclipseCon 2008.<br />Missing: Pascal Essiembre, Werner Keil, Daniel McGowan, Paul Colton</font></p>
+		<div class="sectionTitle">The Babel team</div>
+		<p><ul><li><a href="https://projects.eclipse.org/projects/technology.babel/who">Babel Project Committers and Activity</a></li></ul></p>
 		
 		<div class="sectionTitle">Contributing translations</div>
 		<p>The easiest way to get involved with Babel is to help translate Eclipse projects.</p>
@@ -53,10 +51,7 @@
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a></li>
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a></li>
 			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>)</li>
-			<li><a href="http://dev.eclipse.org/viewcvs/index.cgi/org.eclipse.babel/?root=Technology_Project">CVS browser</a></li>
-			<li><a href="babel_server.psf">Babel server teamset</a></li>
-			<li>CVS repository: :pserver:anonymous@dev.eclipse.org:/cvsroot/technology module: org.eclipse.babel</li>
-			<li><a href="calls">Weekly status calls</a>, which are open to the community.</li>
+			<li><a href="http://git.eclipse.org/c/babel">Git repositories for Plugins and Translation Server</a></li>
 		</ul>
 		<h6>Web-based server translation tool</h6>
 		<p>The <a href="http://babel.eclipse.org/babel">translation tool</a> is a LAMP application, so anyone with PHP and MySQL knowledge can contribute code. To help out:</p>
