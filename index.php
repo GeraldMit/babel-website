@@ -43,7 +43,13 @@
 				<b><a href="downloads.php">Downloads</a></b><br />
 				<span>Download Eclipse language packs.<br/></span>
 			</td></tr>
-				</table>
+		<tr><td width="60" valign="top" align="center">
+			<a href="development.php"><img src="//dev.eclipse.org/large_icons/emotes/face-smile.png"></a>
+				</td><td valign="top" class="packageDesc">
+				<b>You can help!</b><br />
+				<span><a href="http://babel.eclipse.org/">Translate!</a> &#160;|&#160; <a href="development/">Write Code</a> &#160;|&#160; <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Babel">Report bugs</a></span>
+			</td></tr>
+	</table>
 	</div>
 	<div id="rightcolumn">
      <div class="sideitem">
