@@ -11,6 +11,5 @@
 	# these are optional
 	$Nav->addNavSeparator("Project Home", 	"/babel");
 	$Nav->addCustomNav("Downloads", 		"downloads.php", 	"_self", 2);
-	$Nav->addCustomNav("Installation", 		"install.php", 		"_self", 2);
-	$Nav->addCustomNav("FAQ", 				"faq.php", 			"_self", 2);
+	$Nav->addCustomNav("Contribute", 		"development.php", 			"_self", 2);
 ?>
