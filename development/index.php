@@ -41,7 +41,7 @@
 		<div class="sectionTitle">Contributing translations</div>
 		<p>The easiest way to get involved with Babel is to help translate Eclipse projects.</p>
 		<ul>
-		<li><a href="http://babel.eclipse.org/babel/">Web-based translation tool</a>: all you need is an <a href="https://bugs.eclipse.org/bugs/">Eclipse Bugzilla</a> account and a few minutes to start translating.</li>
+		<li><a href="http://babel.eclipse.org/babel/">Web-based translation tool</a>: all you need is an <a href="https://dev.eclipse.org/site_login/createaccount.php">Eclipse Account</a> and a few minutes to start translating.</li>
 		<li><a href="large_contributions.php">Large translation contributions</a>: if you want to submit a large translation to Babel, please follow these guidelines.</li>
 		</ul>
 		<br /><br />
@@ -49,8 +49,7 @@
 		<p>Babel developers use the following resources:</p>
 		<ul>
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a></li>
-			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-translators">Translators mailing list</a></li>
-			<li><a href="http://www.eclipse.org/newsportal/thread.php?group=eclipse.technology.babel">Newsgroup</a> (<a href="http://www.eclipse.org/newsgroups/register.php">register</a>)</li>
+			<li><a href="http://www.eclipse.org/forums/eclipse.technology.babel">Forum</a></li>
 			<li><a href="http://git.eclipse.org/c/babel">Git repositories for Plugins and Translation Server</a></li>
 		</ul>
 		<h6>Web-based server translation tool</h6>
