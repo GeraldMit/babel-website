@@ -79,6 +79,19 @@ ol#known-issues ul li{
 		<p>The Babel project produces language packs from the translations entered using the 
 			<a href="http://babel.eclipse.org/babel/translate.php">Babel Translation Tool</a>.
 			You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
+				
+		<h2>Installing the language packs</h2>
+		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
+			<li>add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.12.0/luna</li>
+		 	<li>select/install your language pack of choice.</li>
+			<li>Restart Eclipse and you should get a translated Eclipse.</li></ul></p>
+
+		<h2>Using the language packs</h2>
+		<p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
+		<p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
+		<p><code>eclipse.exe -nl fr</code></p>
+		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
+				
 
 		<h2>
 			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.12.0/index.php">
@@ -145,14 +158,6 @@ ol#known-issues ul li{
 			Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 		</ul>
 
-		<h2>Installing the language packs</h2>
-		<p>Just unzip the Babel language packs into the Eclipse installation folder.</p>
-
-		<h2>Using the language packs</h2>
-		<p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
-		<p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
-		<p><code>eclipse.exe -nl fr</code></p>
-		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>Babel Pseudo Translations</h2>
 		<p>Babel Pseudo Translations are a very useful tool for globalization testing of Eclipse projects.</p>
