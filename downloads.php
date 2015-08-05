@@ -109,7 +109,6 @@ ol#known-issues ul li{
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/kepler/kepler.php">Kepler</a>
 				</td>
 			</tr>
-			<p />
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
@@ -118,7 +117,6 @@ ol#known-issues ul li{
 					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-mars.zip">Zipped p2 repository for Mars (114 MB)</a><br />
 				</td>
 			</tr>
-			<p />
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
@@ -127,7 +125,6 @@ ol#known-issues ul li{
 					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-luna.zip">Zipped p2 repository for Luna (108 MB)</a><br />
 				</td>
 			</tr>
-			<p />
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
