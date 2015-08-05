@@ -61,10 +61,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.12.1 are now available!</h2> 
+		<h2>Babel Language Packs R0.13.0 are now available!</h2> 
 
-		<p>Babel Language Packs R0.12.1 for Luna, Kepler, and Juno release trains are now available!
-			Translations in all languages for all projects in Babel up to 2014/12/23 are included in R0.12.1.</p>
+		<p>Babel Language Packs R0.13.0 for Mars, Luna, and Kepler release trains are now available!
+			Translations in all languages for all projects in Babel up to 2015/08/04 are included in R0.13.0.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="http://babel.eclipse.org/babel/languages.php">46 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -82,9 +82,9 @@ ol#known-issues ul li{
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.12.1/luna</li>
-		 	<li>select/install your language pack of choice.</li>
-			<li>Restart Eclipse and you should get a translated Eclipse.</li></ul></p>
+			<li>Add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.13.0/mars</li>
+		 	<li>Select/install your language pack of choice</li>
+			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
 
 		<h2>Using the language packs</h2>
 		<p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
@@ -94,8 +94,8 @@ ol#known-issues ul li{
 				
 
 		<h2>
-			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.12.1/index.php">
-			Babel Language Pack Zips and Update Sites - R0.12.1</a> (2014/12/23)
+			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/index.php">
+			Babel Language Pack Zips and Update Sites - R0.13.0</a> (2014/12/23)
 		</h2>
 		<table>
 			<tr>
@@ -104,53 +104,39 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.12.1/luna/luna.php">Luna</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.12.1/kepler/kepler.php">Kepler</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.12.1/juno/juno.php">Juno</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/mars/mars.php">Mars</a> |
+				<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/luna/luna.php">Luna</a> |
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/kepler/kepler.php">Kepler</a>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Mars</b><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.13.0/mars<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-mars.zip">Zipped p2 repository (114 MB)</a><br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Luna</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.12.1/luna<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.12.1/babel-R0.12.1-luna.zip">Zipped p2 repository (113 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.13.0/luna<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-luna.zip">Zipped p2 repository (108 MB)</a><br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Kepler</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.12.1/kepler<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.12.1/babel-R0.12.1-kepler.zip">Zipped p2 repository (135 MB)</a><br />
-				</td>
-			</tr>
-			<tr>
-				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for Juno</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.12.1/juno<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.12.1/babel-R0.12.1-juno.zip">Zipped p2 repository (149 MB)</a><br />
-				</td>
-			</tr>
-			<tr>
-				<td rowspan="2" valign="top"><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td><b>Babel Orion Language Packs</b></td>
-			</tr>
-			<tr>
-				<td>
-					<a href="http://download.eclipse.org/technology/babel/orion_language_packs/R0.12.1/luna/luna.php">Luna</a> |
-					<a href="http://download.eclipse.org/technology/babel/orion_language_packs/R0.12.1/kepler/kepler.php">Kepler</a>
+					http://download.eclipse.org/technology/babel/update-site/R0.13.0/kepler<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-kepler.zip">Zipped p2 repository (135 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.12.1</h2>
+		<h2>Important notes for Babel Language Packs R0.13.0</h2>
 		<ul>
-		<li>Thanks to the translation contributions from the community, Babel Language Packs R0.12.1 now includes
-			<a href="http://download.eclipse.org/technology/babel/orion_language_packs/R0.12.1/luna/luna.php">Babel Orion Language Packs for Luna</a> and
-			<a href="http://download.eclipse.org/technology/babel/orion_language_packs/R0.12.1/kepler/kepler.php">Babel Orion Language Packs for Kepler</a>.
-			See <a href='http://wiki.eclipse.org/Orion/How_Tos/Installing_A_Plugin'>Installing A Plugin</a> for instructions on how to install these Babel Orion language pack plugins.
 		<li>Babel Language Packs for older release trains can be found at <a href="http://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
 			If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
