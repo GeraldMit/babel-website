@@ -95,7 +95,7 @@ ol#known-issues ul li{
 
 		<h2>
 			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/index.php">
-			Babel Language Pack Zips and Update Sites - R0.13.0</a> (2014/12/23)
+			Babel Language Pack Zips and Update Sites - R0.13.0</a> (2015/08/04)
 		</h2>
 		<table>
 			<tr>
