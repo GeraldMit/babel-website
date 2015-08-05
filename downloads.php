@@ -109,28 +109,31 @@ ol#known-issues ul li{
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.13.0/kepler/kepler.php">Kepler</a>
 				</td>
 			</tr>
+			<p />
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Mars</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.13.0/mars<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-mars.zip">Zipped p2 repository (114 MB)</a><br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-mars.zip">Zipped p2 repository for Mars (114 MB)</a><br />
 				</td>
 			</tr>
+			<p />
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Luna</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.13.0/luna<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-luna.zip">Zipped p2 repository (108 MB)</a><br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-luna.zip">Zipped p2 repository for Luna (108 MB)</a><br />
 				</td>
 			</tr>
+			<p />
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Kepler</b><br />
 					http://download.eclipse.org/technology/babel/update-site/R0.13.0/kepler<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-kepler.zip">Zipped p2 repository (135 MB)</a><br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.13.0/babel-R0.13.0-kepler.zip">Zipped p2 repository for Kepler (135 MB)</a><br />
 				</td>
 			</tr>
 		</table>
