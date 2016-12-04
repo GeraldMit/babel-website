@@ -61,10 +61,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.14.0 are now available!</h2> 
+		<h2>Babel Language Packs R0.14.1 are now available!</h2> 
 
-		<p>Babel Language Packs R0.14.0 for Neon, Mars, and Luna release trains are now available!
-			Translations in all languages for all projects in Babel up to 2016/08/15 are included in R0.14.0.</p>
+		<p>Babel Language Packs R0.14.1 for Neon, Mars, and Luna release trains are now available!
+			Translations in all languages for all projects in Babel up to 2016/11/26 are included in R0.14.1.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="http://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -82,7 +82,7 @@ ol#known-issues ul li{
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>Add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.14.0/neon</li>
+			<li>Add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.14.1/neon</li>
 		 	<li>Select/install your language pack of choice</li>
 			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
 
@@ -94,8 +94,8 @@ ol#known-issues ul li{
 				
 
 		<h2>
-			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.0/index.php">
-			Babel Language Pack Zips and Update Sites - R0.14.0</a> (2016/08/15)
+			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.1/index.php">
+			Babel Language Pack Zips and Update Sites - R0.14.1</a> (2016/11/26)
 		</h2>
 		<table>
 			<tr>
@@ -104,38 +104,38 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.0/neon/neon.php">Neon</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.0/mars/mars.php">Mars</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.0/luna/luna.php">Luna</a>
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.1/neon/neon.php">Neon</a> |
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.1/mars/mars.php">Mars</a> |
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.14.1/luna/luna.php">Luna</a>
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Neon</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.14.0/neon<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.14.0/babel-R0.14.0-neon.zip">Zipped p2 repository for Neon (115 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.14.1/neon<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.14.1/babel-R0.14.1-neon.zip">Zipped p2 repository for Neon (115 MB)</a><br />
 				</td>
 			</tr>
 				<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Mars</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.14.0/mars<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.14.0/babel-R0.14.0-mars.zip">Zipped p2 repository for Mars (146 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.14.1/mars<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.14.1/babel-R0.14.1-mars.zip">Zipped p2 repository for Mars (146 MB)</a><br />
 				</td>
 			</tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Luna</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.14.0/luna<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.14.0/babel-R0.14.0-luna.zip">Zipped p2 repository for Luna (112 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.14.1/luna<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.14.1/babel-R0.14.1-luna.zip">Zipped p2 repository for Luna (112 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.14.0</h2>
+		<h2>Important notes for Babel Language Packs R0.14.1</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="http://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
