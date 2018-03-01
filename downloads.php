@@ -1,31 +1,11 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
-	#*****************************************************************************
-	#
-	# template.php
-	#
-	# Author: 		Denis Roy
-	# Date:			2005-06-16
-	#
-	# Description: Type your page comments here - these are not sent to the browser
-	#
-	#
-	#****************************************************************************
 	
-	#
 	# Begin: page-specific settings.  Change these. 
 	$pageTitle 		= "Eclipse Babel Project Downloads";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Babel team";
 	
-	# Add page-specific Nav bars here
-	# Format is Link text, link URL (can be http://www.someothersite.com/), target (_self, _blank), level (1, 2 or 3)
-	# $Nav->addNavSeparator("My Page Links", 	"downloads.php");
-	# $Nav->addCustomNav("My Link", "mypage.php", "_self", 3);
-	# $Nav->addCustomNav("Google", "http://www.google.com/", "_blank", 3);
-
-	# End: page-specific settings
-	#
 	
 	# Get Build date
 	$europa_build_str 	= "";
@@ -109,6 +89,7 @@ ol#known-issues ul li{
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/mars/mars.php">Mars</a>
 				</td>
 			</tr>
+            <tr><td colspan="2">&#160;</td></tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
@@ -117,6 +98,7 @@ ol#known-issues ul li{
 					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.15.1/babel-R0.15.1-oxygen.zip">Zipped p2 repository for Oxygen (131 MB)</a><br />
 				</td>
 			</tr>
+            <tr><td colspan="2">&#160;</td></tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
@@ -125,7 +107,8 @@ ol#known-issues ul li{
 					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.15.1/babel-R0.15.1-neon.zip">Zipped p2 repository for Neon (129 MB)</a><br />
 				</td>
 			</tr>
-				<tr>
+            <tr><td colspan="2">&#160;</td></tr>
+			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Mars</b><br />
