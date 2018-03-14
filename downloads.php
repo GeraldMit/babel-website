@@ -85,6 +85,7 @@ ol#known-issues ul li{
 			<tr>
 				<td>
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/oxygen/oxygen.php">Oxygen</a> |
+                    <a href="http://build.eclipse.org/technology/babel/babel_language_packs/">Nightly Build (Oxygen)</a> |
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/neon/neon.php">Neon</a> |
 					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/mars/mars.php">Mars</a>
 				</td>
