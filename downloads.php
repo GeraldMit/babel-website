@@ -41,10 +41,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.15.1 are now available!</h2> 
+		<h2>Babel Language Packs R0.16.0 are now available!</h2> 
 
-		<p>Babel Language Packs R0.15.1 for Oxygen, Neon, and Mars release trains are now available!
-			Translations in all languages for all projects in Babel up to 2017/12/31 are included in R0.15.1.</p>
+		<p>Babel Language Packs R0.16.0 for Photon, Oxygen, and Neon release trains are now available!
+			Translations in all languages for all projects in Babel up to 2018/08/15 are included in R0.16.0.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="http://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -62,7 +62,7 @@ ol#known-issues ul li{
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>Add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.15.1/oxygen</li>
+			<li>Add the Babel p2 repository: http://download.eclipse.org/technology/babel/update-site/R0.16.0/photon/</li>
 		 	<li>Select/install your language pack of choice</li>
 			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
 
@@ -71,11 +71,10 @@ ol#known-issues ul li{
 		<p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
 		<p><code>eclipse.exe -nl fr</code></p>
 		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="http://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="http://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
-				
 
 		<h2>
-			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/index.php">
-			Babel Language Pack Zips and Update Sites - R0.15.1</a> (2017/12/31)
+			<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.16.0/index.php">
+			Babel Language Pack Zips and Update Sites - R0.16.0</a> (2018/08/15)
 		</h2>
 		<table>
 			<tr>
@@ -84,19 +83,30 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/oxygen/oxygen.php">Oxygen</a> |
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.16.0/photon/photon.php">Photon</a> |
+					<!--
                     <a href="http://build.eclipse.org/technology/babel/babel_language_packs/">Nightly Build (Eclipse Photon)</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/neon/neon.php">Neon</a> |
-					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.15.1/mars/mars.php">Mars</a>
+					-->
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.16.0/oxygen/oxygen.php">Oxygen</a> |
+					<a href="http://download.eclipse.org/technology/babel/babel_language_packs/R0.16.0/neon/neon.php">Neon</a>
 				</td>
 			</tr>
             <tr><td colspan="2">&#160;</td></tr>
 			<tr>
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
+					<b>Babel Language Pack Update Site for Photon</b><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.16.0/photon/<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.16.0/babel-R0.16.0-photon.zip">Zipped p2 repository for Photon (139 MB)</a><br />
+				</td>
+			</tr>
+			<tr><td colspan="2">&#160;</td></tr>
+			<tr>
+				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
 					<b>Babel Language Pack Update Site for Oxygen</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.15.1/oxygen<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.15.1/babel-R0.15.1-oxygen.zip">Zipped p2 repository for Oxygen (131 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.16.0/oxygen/<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.16.0/babel-R0.16.0-oxygen.zip">Zipped p2 repository for Oxygen (131 MB)</a><br />
 				</td>
 			</tr>
             <tr><td colspan="2">&#160;</td></tr>
@@ -104,22 +114,13 @@ ol#known-issues ul li{
 				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for Neon</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.15.1/neon<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.15.1/babel-R0.15.1-neon.zip">Zipped p2 repository for Neon (129 MB)</a><br />
-				</td>
-			</tr>
-            <tr><td colspan="2">&#160;</td></tr>
-			<tr>
-				<td><img src="http://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for Mars</b><br />
-					http://download.eclipse.org/technology/babel/update-site/R0.15.1/mars<br />
-					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.15.1/babel-R0.15.1-mars.zip">Zipped p2 repository for Mars (143 MB)</a><br />
+					http://download.eclipse.org/technology/babel/update-site/R0.16.0/neon/<br />
+					<a href="http://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.16.0/babel-R0.16.0-neon.zip">Zipped p2 repository for Neon (129 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.15.1</h2>
+		<h2>Important notes for Babel Language Packs R0.16.0</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="http://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
@@ -127,7 +128,6 @@ ol#known-issues ul li{
 		<li>Not all languages are included in Babel yet.
 			Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 		</ul>
-
 
 		<h2>Babel Pseudo Translations</h2>
 		<p>Babel Pseudo Translations are a very useful tool for globalization testing of Eclipse projects.</p>
