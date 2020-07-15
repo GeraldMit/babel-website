@@ -116,7 +116,7 @@ ol#known-issues ul li{
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.17.1</h2>
+		<h2>Important notes for Babel Language Packs R0.18.0</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
