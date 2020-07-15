@@ -41,10 +41,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.17.1 are now available!</h2> 
+		<h2>Babel Language Packs R0.18.0 are now available!</h2> 
 
-		<p>Babel Language Packs R0.17.1 for 2019-12, 2019-06, and 2018-12 release trains are now available!
-			Translations in all languages for all projects in Babel up to 2020/01/15 are included in R0.17.1.</p>
+		<p>Babel Language Packs R0.18.0 for 2020-06, 2019-12, and 2019-06 release trains are now available!
+			Translations in all languages for all projects in Babel up to 2020/07/15 are included in R0.18.0.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="https://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -62,7 +62,7 @@ ol#known-issues ul li{
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/R0.17.1/2019-12/</li>
+			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/R0.18.0/2020-06/</li>
 		 	<li>Select/install your language pack of choice</li>
 			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
 
@@ -73,7 +73,7 @@ ol#known-issues ul li{
 		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="https://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="https://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>
-			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.17.1/index.php">Babel Language Pack Zips and Update Sites - R0.17.1</a> (2020/01/15)
+			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.0/index.php">Babel Language Pack Zips and Update Sites - R0.18.0</a> (2020/07/15)
 		</h2>
 		<table>
 			<tr>
@@ -82,9 +82,18 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.17.1/2019-12/2019-12.php">2019-12</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.17.1/2019-06/2019-06.php">2019-06</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.17.1/2018-12/2018-12.php">2018-12</a>
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.0/2020-06/2020-06.php">2020-06</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.0/2019-12/2019-12.php">2019-12</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.0/2019-06/2019-06.php">2019-06</a>
+				</td>
+			</tr>
+            <tr><td colspan="2">&#160;</td></tr>
+			<tr>
+				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for 2020-06</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.18.0/2020-06/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.0/babel-R0.18.0-2020-06.zip">Zipped p2 repository for 2020-06 (163 MB)</a><br />
 				</td>
 			</tr>
             <tr><td colspan="2">&#160;</td></tr>
@@ -92,8 +101,8 @@ ol#known-issues ul li{
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for 2019-12</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.17.1/2019-12/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.17.1/babel-R0.17.1-2019-12.zip">Zipped p2 repository for 2019-12 (148 MB)</a><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.18.0/2019-12/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.0/babel-R0.18.0-2019-12.zip">Zipped p2 repository for 2019-12 (138 MB)</a><br />
 				</td>
 			</tr>
             <tr><td colspan="2">&#160;</td></tr>
@@ -101,17 +110,8 @@ ol#known-issues ul li{
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for 2019-06</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.17.1/2019-06/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.17.1/babel-R0.17.1-2019-06.zip">Zipped p2 repository for 2019-06 (119 MB)</a><br />
-				</td>
-			</tr>
-            <tr><td colspan="2">&#160;</td></tr>
-			<tr>
-				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for 2018-12</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.17.1/2018-12/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.17.1/babel-R0.17.1-2018-12.zip">Zipped p2 repository for 2018-12 (120 MB)</a><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.18.0/2019-06/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.0/babel-R0.18.0-2019-06.zip">Zipped p2 repository for 2019-06 (120 MB)</a><br />
 				</td>
 			</tr>
 		</table>
