@@ -43,8 +43,8 @@ ol#known-issues ul li{
 		<h1>$pageTitle</h1>
 		<h2>Babel Language Packs R0.18.2 are now available!</h2> 
 
-		<p>Babel Language Packs R0.18.2 for 2020-12, 2020-09, and 2020-06 release trains are now available!
-			Translations in all languages for all projects in Babel up to 2020/12/26 are included in R0.18.2.</p>
+		<p>Babel Language Packs R0.18.3 for 2021-03, 2020-12, and 2020-09 release trains are now available!
+			Translations in all languages for all projects in Babel up to 2021/03/27 are included in R0.18.3.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="https://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -73,7 +73,7 @@ ol#known-issues ul li{
 		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="https://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="https://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>
-			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.2/index.php">Babel Language Pack Zips and Update Sites - R0.18.2</a> (2020/12/26)
+			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.2/index.php">Babel Language Pack Zips and Update Sites - R0.18.3</a> (2021/03/27)
 		</h2>
 		<table>
 			<tr>
@@ -82,9 +82,28 @@ ol#known-issues ul li{
 			</tr>
 			<tr>
 				<td>
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.2/2020-12/2020-12.php">2020-12</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.2/2020-09/2020-09.php">2020-09</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.2/2020-06/2020-06.php">2020-06</a>
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/latest/index.php">Latest Release</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.3/2021-03/2021-03.php">2021-03</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.3/2020-12/2020-12.php">2020-12</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.3/2020-09/2020-09.php">2020-09</a>
+				</td>
+			</tr>
+			<tr><td colspan="2">&#160;</td></tr>
+			<tr>
+				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for Latest Release</b><br />
+					https://download.eclipse.org/technology/babel/update-site/latest/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/babel-latest.zip">Zipped p2 Repository for Latest Release (152 MB)</a><br />
+				</td>
+			</tr>
+			<tr><td colspan="2">&#160;</td></tr>
+			<tr>
+				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for 2021-03</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.18.3/2021-03/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.3/babel-R0.18.3-2021-03.zip">Zipped p2 Repository for 2021-03 (152 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -92,8 +111,8 @@ ol#known-issues ul li{
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for 2020-12</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.18.2/2020-12/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.2/babel-R0.18.2-2020-12.zip">Zipped p2 repository for 2020-12 (153 MB)</a><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.18.3/2020-12/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.3/babel-R0.18.3-2020-12.zip">Zipped p2 Repository for 2020-12 (153 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -101,22 +120,13 @@ ol#known-issues ul li{
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for 2020-09</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.18.2/2020-09/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.2/babel-R0.18.2-2020-09.zip">Zipped p2 repository for 2020-09 (149 MB)</a><br />
-				</td>
-			</tr>
-			<tr><td colspan="2">&#160;</td></tr>
-			<tr>
-				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for 2020-06</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.18.2/2020-06/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.2/babel-R0.18.2-2020-06.zip">Zipped p2 repository for 2020-06 (145 MB)</a><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.18.3/2020-09/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.18.3/babel-R0.18.3-2020-09.zip">Zipped p2 Repository for 2020-09 (149 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.18.2</h2>
+		<h2>Important notes for Babel Language Packs R0.18.3</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
