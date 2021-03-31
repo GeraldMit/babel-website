@@ -41,7 +41,7 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.18.2 are now available!</h2> 
+		<h2>Babel Language Packs R0.18.3 are now available!</h2> 
 
 		<p>Babel Language Packs R0.18.3 for 2021-03, 2020-12, and 2020-09 release trains are now available!
 			Translations in all languages for all projects in Babel up to 2021/03/27 are included in R0.18.3.</p>
@@ -62,7 +62,7 @@ ol#known-issues ul li{
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/R0.18.2/2020-12/</li>
+			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/R0.18.3/2021-03/</li>
 		 	<li>Select/install your language pack of choice</li>
 			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
 
@@ -73,7 +73,7 @@ ol#known-issues ul li{
 		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="https://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="https://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>
-			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.2/index.php">Babel Language Pack Zips and Update Sites - R0.18.3</a> (2021/03/27)
+			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.18.3/index.php">Babel Language Pack Zips and Update Sites - R0.18.3</a> (2021/03/27)
 		</h2>
 		<table>
 			<tr>
