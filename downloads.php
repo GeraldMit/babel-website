@@ -142,7 +142,7 @@ ol#known-issues ul li{
 
 		<h2>Other downloads</h2>
 		<ul>
-		<li><a href="https://build.eclipse.org/technology/babel/babel_language_packs/">Developer and Nightly Builds</a></li>
+		<li><a href="https://download.eclipse.org/technology/babel/babel_language_packs/">Developer and Nightly Builds</a></li>
 		<li><a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server weekly mysqldump</a></li>
         <!--
