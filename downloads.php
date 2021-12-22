@@ -1,7 +1,7 @@
 <?php  																														require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/app.class.php");	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/nav.class.php"); 	require_once($_SERVER['DOCUMENT_ROOT'] . "/eclipse.org-common/system/menu.class.php"); 	$App 	= new App();	$Nav	= new Nav();	$Menu 	= new Menu();		include($App->getProjectCommon());    # All on the same line to unclutter the user's desktop'
 
 	
-	# Begin: page-specific settings.  Change these. 
+	# Begin: page-specific settings.  Change these.
 	$pageTitle 		= "Eclipse Babel Project Downloads";
 	$pageKeywords	= "babel,eclipse,translation,i18n,l10n,internationalization,localization,globalization";
 	$pageAuthor		= "Babel team";
@@ -15,7 +15,7 @@
     	$build_date = date("F d, Y", filemtime($filename));
 	}
 	
-	# Paste your HTML content between the EOHTML markers!	
+	# Paste your HTML content between the EOHTML markers!
 	$html = <<<EOHTML
 <style>
 #known-issues li{
@@ -41,10 +41,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.19.1 are now available!</h2> 
+		<h2>Babel Language Packs R0.19.2 are now available!</h2> 
 
-		<p>Babel Language Packs R0.19.1 for 2021-09, 2021-06, and 2021-03 release trains are now available!
-			Translations in all languages for all projects in Babel up to 2021/09/25 are included in R0.19.1.</p>
+		<p>Babel Language Packs R0.19.2 for 2021-12, 2021-09, and 2021-06 release trains are now available!
+			Translations in all languages for all projects in Babel up to 2021/12/18 are included in R0.19.2.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="https://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -62,7 +62,7 @@ ol#known-issues ul li{
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/R0.19.1/2021-09/</li>
+			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/latest/</li>
 		 	<li>Select/install your language pack of choice</li>
 			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
 
@@ -73,7 +73,7 @@ ol#known-issues ul li{
 		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="https://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="https://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>
-			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.1/index.php">Babel Language Pack Zips and Update Sites - R0.19.1</a> (2021/09/25)
+			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/index.php">Babel Language Pack Zips and Update Sites - R0.19.2</a> (2021/12/18)
 		</h2>
 		<table>
 			<tr>
@@ -83,9 +83,9 @@ ol#known-issues ul li{
 			<tr>
 				<td>
 					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/latest/index.php">Latest Release</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.1/2021-09/2021-09.php">2021-09</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.1/2021-06/2021-06.php">2021-06</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.1/2021-03/2021-03.php">2021-03</a>
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/2021-12/2021-12.php">2021-12</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/2021-09/2021-09.php">2021-09</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/2021-06/2021-06.php">2021-06</a>
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -101,9 +101,18 @@ ol#known-issues ul li{
 			<tr>
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
+					<b>Babel Language Pack Update Site for 2021-12</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2021-12/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.19.2-2021-12.zip">Zipped p2 Repository for 2021-12 (160 MB)</a><br />
+				</td>
+			</tr>
+			<tr><td colspan="2">&#160;</td></tr>
+			<tr>
+				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
 					<b>Babel Language Pack Update Site for 2021-09</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.19.1/2021-09/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.1/babel-R0.19.1-2021-09.zip">Zipped p2 Repository for 2021-09 (160 MB)</a><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2021-09/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.19.2-2021-09.zip">Zipped p2 Repository for 2021-09 (121 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -111,22 +120,13 @@ ol#known-issues ul li{
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
 					<b>Babel Language Pack Update Site for 2021-06</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.19.1/2021-06/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.1/babel-R0.19.1-2021-06.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
-				</td>
-			</tr>
-			<tr><td colspan="2">&#160;</td></tr>
-			<tr>
-				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
-				<td>
-					<b>Babel Language Pack Update Site for 2021-03</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.19.1/2021-03/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.1/babel-R0.19.1-2021-03.zip">Zipped p2 Repository for 2021-03 (120 MB)</a><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2021-06/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.19.2-2021-06.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.19.1</h2>
+		<h2>Important notes for Babel Language Packs R0.19.2</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
