@@ -49,7 +49,7 @@
 		<p>Babel developers use the following resources:</p>
 		<ul>
 			<li><a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a></li>
-			<li><a href="http://www.eclipse.org/forums/eclipse.technology.babel">Forum</a></li>
+			<li><a href="https://www.eclipse.org/forums/index.php?t=thread&frm_id=42">Forum</a></li>
 			<li><a href="http://git.eclipse.org/c/babel">Git repositories for Plugins and Translation Server</a></li>
 		</ul>
 		<div class="sectionTitle">Web-based server translation tool</div>

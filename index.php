@@ -29,7 +29,7 @@
 			<img src="/mylyn/images/community.jpg">
 				</td><td valign="top" class="packageDesc">
 				<b>Community</b><br />
-				<span><a href="/forums/index.php/f/42/">Newsgroup</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a> &#160;|&#160; <a href="http://wiki.eclipse.org/Babel_/_Language_champions">Language Champions</a></span>
+				<span><a href="https://www.eclipse.org/forums/index.php?t=thread&frm_id=42">Newsgroup</a> &#160;|&#160; <a href="https://dev.eclipse.org/mailman/listinfo/babel-dev">Developers mailing list</a> &#160;|&#160; <a href="http://wiki.eclipse.org/Babel_/_Language_champions">Language Champions</a></span>
 			</td></tr>
 	<tr><td width="60" valign="top" align="center">
 			<a href="http://babel.eclipse.org/"><img src="//dev.eclipse.org/large_icons/categories/applications-internet.png"></a>
