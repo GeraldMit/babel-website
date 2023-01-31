@@ -19,5 +19,5 @@ Translate at https://babel.eclipse.org/babel/translate.php
 The Babel project has lots of ideas and we need your help to take this project to the next level. 
 Help here: https://babel.eclipse.org/babel/help_babel.php
 
-_Note: this site is moved from https://git.eclipse.org/c/www.eclipse.org/babel.git with a brief stopover from https://gitlab.eclipse.org/eclipse/babel/babel-website as of January 24th, 2023. Please adjust accordingly.
-_
+Note: this site is moved from https://git.eclipse.org/c/www.eclipse.org/babel.git with a brief stopover from https://gitlab.eclipse.org/eclipse/babel/babel-website as of January 24th, 2023. Please adjust accordingly.
+
