@@ -18,7 +18,7 @@
 		in as many languages as possible.</p>
 		<p>We need your help to make Eclipse a worldwide success! If you, as a company or 
 		individual, would like to step forward to help co-lead the Eclipse Babel Project, 
-		please contact Kit Lo (kitlo.at.us.ibm.com).</p>
+		please contact Gerald Mitchell (gerald.mitchell.at.ibm.com).</p>
 		<p align="center"><a href="./">&laquo; Back to Babel</a></p>
 	</div>
 	<div id="rightcolumn">
