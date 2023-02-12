@@ -41,10 +41,10 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.19.2 are now available!</h2> 
+		<h2>Babel Language Packs R0.20.0 are now available!</h2> 
 
-		<p>Babel Language Packs R0.19.2 for 2021-12, 2021-09, and 2021-06 release trains are now available!
-			Translations in all languages for all projects in Babel up to 2021/12/18 are included in R0.19.2.</p>
+		<p>Babel Language Packs R0.19.2 for 2022-12, 2022-09, 2022-06, and 2022-03 release trains are now available!
+			Translations in all languages for all projects in Babel up to February 15, 2023 are included in R0.20.0.</p>
 
 		<p>Babel is currently setup to accept translation contributions in
 			<a href="https://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
@@ -70,10 +70,13 @@ ol#known-issues ul li{
 		<p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
 		<p>If the system locale is in English, and you want to launch Eclipse in another language, you have to launch Eclipse with the <b>-nl</b> command line argument:</p>
 		<p><code>eclipse.exe -nl fr</code></p>
-		<p>Replace <b>fr</b> with the locale you wish to use. See <a href="https://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details. Also see the <a href="https://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
+		<p>Replace <b>fr</b> with the locale you wish to use. 
+		See <a href="https://help.eclipse.org/help33/index.jsp?topic=/org.eclipse.platform.doc.user/tasks/running_eclipse.htm">"Running Eclipse"</a> for more details.
+		Also see the <a href="https://www.eclipse.org/articles/Article-Speak-The-Local-Language/article.html">"Teach Your Eclipse to Speak the Local Lingo"</a> Eclipse Corner Article 
+		for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>
-			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/index.php">Babel Language Pack Zips and Update Sites - R0.19.2</a> (2021/12/18)
+			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/index.php">Babel Language Pack Zips and Update Sites - R0.20.0</a> (2023/02/18)
 		</h2>
 		<table>
 			<tr>
@@ -83,9 +86,10 @@ ol#known-issues ul li{
 			<tr>
 				<td>
 					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/latest/index.php">Latest Release</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/2021-12/2021-12.php">2021-12</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/2021-09/2021-09.php">2021-09</a> |
-					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.19.2/2021-06/2021-06.php">2021-06</a>
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/2022-12/2022-12.php">2022-12</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/2022-09/2022-09.php">2022-09</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/2022-06/2022-06.php">2022-06</a> |
+					<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/2022-03/2022-03.php">2022-03</a>
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -101,32 +105,41 @@ ol#known-issues ul li{
 			<tr>
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
-					<b>Babel Language Pack Update Site for 2021-12</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2021-12/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.19.2-2021-12.zip">Zipped p2 Repository for 2021-12 (160 MB)</a><br />
+					<b>Babel Language Pack Update Site for 2022-12</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2022-12/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-12.zip">Zipped p2 Repository for 2022-12 (160 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
 			<tr>
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
-					<b>Babel Language Pack Update Site for 2021-09</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2021-09/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.19.2-2021-09.zip">Zipped p2 Repository for 2021-09 (121 MB)</a><br />
+					<b>Babel Language Pack Update Site for 2022-09</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-09/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.20.0-2022-09.zip">Zipped p2 Repository for 2021-09 (121 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
 			<tr>
 				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
 				<td>
-					<b>Babel Language Pack Update Site for 2021-06</b><br />
-					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2021-06/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.19.2-2021-06.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
+					<b>Babel Language Pack Update Site for 2022-06</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-06/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-06.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
+				</td>
+			</tr>
+			<tr><td colspan="2">&#160;</td></tr>
+			<tr>
+				<td><img src="https://dev.eclipse.org/large_icons/actions/go-bottom.png" /></td>
+				<td>
+					<b>Babel Language Pack Update Site for 2022-03</b><br />
+					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-03/<br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-03.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.19.2</h2>
+		<h2>Important notes for Babel Language Packs R0.20.0</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
@@ -145,11 +158,6 @@ ol#known-issues ul li{
 		<li><a href="https://download.eclipse.org/technology/babel/babel_language_packs/">Developer and Nightly Builds</a></li>
 		<li><a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a></li>
 		<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server weekly mysqldump</a></li>
-        <!--
-		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.5.tar.gz">Eclipse Platform R-3.5 English .properties files</a></li>
-		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.4.tar.gz">Eclipse Platform R-3.4 English .properties files</a></li>
-		<li><a href="/downloads/download.php?file=/technology/babel/eclipse_properties-R-3.3.1.tar.gz">Eclipse Platform R-3.3.1 English .properties files</a></li>
-        -->
 		</ul><br />
 	</div>
 </div>
