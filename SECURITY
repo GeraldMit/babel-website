@@ -1,0 +1,20 @@
+# Security Policy
+
+This project implements the Eclipse Foundation Security Policy
+
+* https://www.eclipse.org/security
+
+## Supported Versions
+
+These versions of Babel are currently being supported with security updates.
+
+| Version  | Released   | Supported          | 
+| -------- | ---------- | ------------------ | 
+| 0.20.0   | 2023-03-01 | :white_check_mark: | 
+| 0.19.2   | 2021-12-18 | :white_check_mark: | 
+| < 0.19.1 | 2021-09-25 | :x:                | 
+
+## Reporting a Vulnerability
+
+Please report vulnerabilities to the Eclipse Foundation Security Team at
+security@eclipse.org
