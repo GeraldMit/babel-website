@@ -1,0 +1,77 @@
+# Contributing to Eclipse Babel
+
+Thanks for your interest in this project.
+
+## Project description
+
+Eclipse Babel is a set of tools to make the job of globalizing Eclipse projects
+easier. We also want to provide ways for people world wide, who are interested,
+to contribute translations in their language of choice. The project includes
+tools and activities that are needed to adapt the Eclipse deliverables to
+properly run in multiple locales and to translate selected Eclipse projects into
+multiple different languages (French, Japanese, German, etc). The project could
+eventually include tools to aid in the following areas: Enablement testing (E.g.
+can the software run in different language environments and handle multiple
+scripts, etc.), translatability testing (is it ready for translation?),
+preparation for translation (preparation of resource bundles), Translation
+testing (Is the translation acceptable?), and more.
+
+* https://projects.eclipse.org/projects/technology.babel
+
+## Terms of Use
+
+This repository is subject to the Terms of Use of the Eclipse Foundation
+
+* https://www.eclipse.org/legal/termsofuse.php
+
+## Developer resources
+
+Information regarding source code management, builds, coding standards, and
+more.
+
+* https://projects.eclipse.org/projects/technology.babel/developer
+
+The project maintains the following source code repositories
+
+* https://git.eclipse.org/r/plugins/gitiles/babel/server
+* https://git.eclipse.org/r/plugins/gitiles/babel/plugins
+* https://github.com/eclipse-babel/babel-website
+
+This project uses Bugzilla to track ongoing development and issues.
+
+* Search for issues: https://bugs.eclipse.org/bugs/buglist.cgi?product=Babel
+* Create a new report:
+   https://bugs.eclipse.org/bugs/enter_bug.cgi?product=Babel
+
+Be sure to search for existing bugs before you create another one. Remember that
+contributions are always welcome!
+
+## Eclipse Development Process
+
+This Eclipse Foundation open project is governed by the Eclipse Foundation
+Development Process and operates under the terms of the Eclipse IP Policy.
+
+* https://eclipse.org/projects/dev_process
+* https://www.eclipse.org/org/documents/Eclipse_IP_Policy.pdf
+
+## Eclipse Contributor Agreement
+
+In order to be able to contribute to Eclipse Foundation projects you must
+electronically sign the Eclipse Contributor Agreement (ECA).
+
+* https://www.eclipse.org/legal/ECA.php
+
+The ECA provides the Eclipse Foundation with a permanent record that you agree
+that each of your contributions will comply with the commitments documented in
+the Developer Certificate of Origin (DCO). Having an ECA on file associated with
+the email address matching the "Author" field of your contribution's Git commits
+fulfills the DCO's requirement that you sign-off on your contributions.
+
+For more information, please see the Eclipse Committer Handbook:
+https://www.eclipse.org/projects/handbook/#resources-commit
+
+## Contact
+
+Contact the project developers via the project's "dev" list.
+
+* https://dev.eclipse.org/mailman/listinfo/babel-dev
