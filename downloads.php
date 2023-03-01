@@ -41,12 +41,12 @@ ol#known-issues ul li{
 <div id="maincontent">
 	<div id="midcolumn">
 		<h1>$pageTitle</h1>
-		<h2>Babel Language Packs R0.20.0 are now available!</h2> 
+		<h2>Language Packs for Eclipse Babel release 0.20.0 are now available for March 1, 2023!</h2> 
 
-		<p>Babel Language Packs R0.19.2 for 2022-12, 2022-09, 2022-06, and 2022-03 release trains are now available!
-			Translations in all languages for all projects in Babel up to February 15, 2023 are included in R0.20.0.</p>
+		<p>Babel Language Packs R0.20.0 for 2022-12, 2022-09, 2022-06, and 2022-03 release trains are now available!
+			Translations in all languages for all projects in Eclipse Babel up to February 20, 2023 are included in R0.20.0.</p>
 
-		<p>Babel is currently setup to accept translation contributions in
+		<p>Eclipse Babel Project is currently setup to accept translation contributions in
 			<a href="https://babel.eclipse.org/babel/languages.php">47 languages</a> for about 40+ Eclipse projects and sub-projects.
 			Participation for each language and each project may vary.
 			For some of the most common projects, the completion percentages are very high.
@@ -58,13 +58,13 @@ ol#known-issues ul li{
 
 		<p>The Babel project produces language packs from the translations entered using the 
 			<a href="https://babel.eclipse.org/babel/translate.php">Babel Translation Tool</a>.
-			You can download the Babel Language Pack Zips from the following links, or use the Babel Language Pack Update Sites to download the languages packs.</p>
+			You can download the Eclipse Babel Language Pack Zips from the following links, or use the Eclipse Babel Language Pack Update Sites to download the languages packs.</p>
 				
 		<h2>Installing the language packs</h2>
 		<p><ul><li>Open the install wizard with 'Help' > 'Install new software...'</li> 
-			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/latest/</li>
-		 	<li>Select/install your language pack of choice</li>
-			<li>Restart Eclipse and you should get a translated Eclipse</li></ul></p>
+			<li>Add the Babel p2 repository: https://download.eclipse.org/technology/babel/update-site/latest/ to your Eclipse installation.</li>
+		 	<li>Select and install your language pack of choice.</li>
+			<li>Restart Eclipse and you should get a translated Eclipse experience!</li></ul></p>
 
 		<h2>Using the language packs</h2>
 		<p>If the system locale for your operating system is already in the language you want to launch Eclipse in, all you have to do is to launch Eclipse normally and the language packs will be loaded.</p>
@@ -98,7 +98,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for Latest Release</b><br />
 					https://download.eclipse.org/technology/babel/update-site/latest/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/babel-latest.zip">Zipped p2 Repository for Latest Release (160 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/babel-latest.zip">Zipped p2 Repository for Latest Release (161 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -107,7 +107,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-12</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2022-12/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-12.zip">Zipped p2 Repository for 2022-12 (160 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-12.zip">Zipped p2 Repository for 2022-12 (161 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -116,7 +116,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-09</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-09/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.20.0-2022-09.zip">Zipped p2 Repository for 2021-09 (121 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.20.0-2022-09.zip">Zipped p2 Repository for 2022-09 (162 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -125,7 +125,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-06</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-06/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-06.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-06.zip">Zipped p2 Repository for 2022-06 (165 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -134,30 +134,30 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-03</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-03/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-03.zip">Zipped p2 Repository for 2021-06 (108 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-03.zip">Zipped p2 Repository for 2022-03 (167 MB)</a><br />
 				</td>
 			</tr>
 		</table>
 
-		<h2>Important notes for Babel Language Packs R0.20.0</h2>
+		<h2>Important notes for Eclipse Babel Language Packs R0.20.0</h2>
 		<ul>
 		<li>Babel Language Packs for older release trains can be found at <a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a>.
 		<li>Not all of the existing Eclipse Foundation Projects are included in Babel yet.
-			If you encounter a project that you would like to help translate, <a href="/projects">tell that project's leaders</a>.
+			If you encounter a project that you would like to help translate, <a href="https://projects.eclipse.org/">tell that project's leaders</a>.
 		<li>Not all languages are included in Babel yet.
 			Request an additional language through <a href="https://bugs.eclipse.org/bugs/enter_bug.cgi?bug_file_loc=http%3A%2F%2F&bug_severity=normal&bug_status=NEW&comment=&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&description=&flag_type-1=X&flag_type-2=X&flag_type-4=X&flag_type-6=X&form_name=enter_bug&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Linux&priority=P3&product=Babel&rep_platform=PC&short_desc=Please%20add%20a%20new%20language%20to%20Babel&version=unspecified">Bugzilla</a>.
 		</ul>
 
-		<h2>Babel Pseudo Translations</h2>
+		<h2>Eclipse Babel Pseudo Translations</h2>
 		<p>Babel Pseudo Translations are a very useful tool for globalization testing of Eclipse projects.</p>
 		<p>See the <a href="https://www.eclipse.org/articles/Article-babel-pseudo-translations/article.html">"Babel Pseudo Translations"</a> Eclipse Corner Article for step-by-step instructions and examples describing what are the Babel Pseudo Translations, where to download them, how to install them, and how to launch Eclipse in Babel Pseudo Translations.</p>
 		<p>Eclipse developers can use the Babel Pseudo Translations to verify the translatability of their projects and make sure Eclipse excels in national language support.</p>
 
 		<h2>Other downloads</h2>
 		<ul>
-		<li><a href="https://download.eclipse.org/technology/babel/babel_language_packs/">Developer and Nightly Builds</a></li>
-		<li><a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Archived Downloads</a></li>
-		<li><a href="/downloads/download.php?file=/technology/babel/babel-database.sql.gz">Babel Server weekly mysqldump</a></li>
+		<li><a href="https://download.eclipse.org/technology/babel/babel_language_packs/">Eclipse Babel Project Language Pack Developer and Nightly Builds</a></li>
+		<li><a href="https://archive.eclipse.org/technology/babel/index.php">Eclipse Babel Project Language Pack Archived Downloads</a></li>
+		<li><a href="downloads/download.php?file=/technology/babel/babel-database.sql.gz">Eclipse Babel Server weekly mysqldump</a></li>
 		</ul><br />
 	</div>
 </div>
