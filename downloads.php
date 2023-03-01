@@ -76,7 +76,7 @@ ol#known-issues ul li{
 		for more examples on how to launch Eclipse in different languages (including bi-directional language like Arabic) and different operating systems (like Linux and Mac OS X).</p>
 
 		<h2>
-			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/index.php">Babel Language Pack Zips and Update Sites - R0.20.0</a> (2023/02/18)
+			<a href="https://download.eclipse.org/technology/babel/babel_language_packs/R0.20.0/index.php">Babel Language Pack Zips and Update Sites - R0.20.0</a> (2023/03/01)
 		</h2>
 		<table>
 			<tr>
