@@ -98,7 +98,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for Latest Release</b><br />
 					https://download.eclipse.org/technology/babel/update-site/latest/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/babel-latest.zip">Zipped p2 Repository for Latest Release (161 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/babel-latest.zip">Zipped p2 Repository for Latest Release (159 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -107,7 +107,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-12</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.19.2/2022-12/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-12.zip">Zipped p2 Repository for 2022-12 (161 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-12.zip">Zipped p2 Repository for 2022-12 (159 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -116,7 +116,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-09</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-09/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.20.0-2022-09.zip">Zipped p2 Repository for 2022-09 (162 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.19.2/babel-R0.20.0-2022-09.zip">Zipped p2 Repository for 2022-09 (157 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -125,7 +125,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-06</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-06/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-06.zip">Zipped p2 Repository for 2022-06 (165 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-06.zip">Zipped p2 Repository for 2022-06 (154 MB)</a><br />
 				</td>
 			</tr>
 			<tr><td colspan="2">&#160;</td></tr>
@@ -134,7 +134,7 @@ ol#known-issues ul li{
 				<td>
 					<b>Babel Language Pack Update Site for 2022-03</b><br />
 					https://download.eclipse.org/technology/babel/update-site/R0.20.0/2022-03/<br />
-					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-03.zip">Zipped p2 Repository for 2022-03 (167 MB)</a><br />
+					<a href="https://eclipse.org/downloads/download.php?file=/technology/babel/update-site/R0.20.0/babel-R0.20.0-2022-03.zip">Zipped p2 Repository for 2022-03 (154 MB)</a><br />
 				</td>
 			</tr>
 		</table>
